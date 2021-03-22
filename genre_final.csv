@@ -8,22 +8,22 @@ artist_id,genre
 1McMsnEElThX1knmY4oliG,alt z
 1McMsnEElThX1knmY4oliG,pop
 1McMsnEElThX1knmY4oliG,post-teen pop
-1uU7g3DNSbsu0QjSEqZtEd,australian hip hop
 1U1el3k54VvEUzo3ybLPlM,colombian pop
 1U1el3k54VvEUzo3ybLPlM,pop
+1uU7g3DNSbsu0QjSEqZtEd,australian hip hop
 1Xyo4u8uXC1ZmMpatF05PJ,canadian contemporary r&b
 1Xyo4u8uXC1ZmMpatF05PJ,canadian pop
 1Xyo4u8uXC1ZmMpatF05PJ,pop
 0du5cEVh5yTK9QJze8zA0C,pop
 3jK9MiCrA42lLAdMGUZpwa,escape room
-6LuN9FCkKOj5PcnpouEgny,alternative r&b
-6LuN9FCkKOj5PcnpouEgny,pop
 4q3ewBCX7sLwd24euuV69X,latin
 4q3ewBCX7sLwd24euuV69X,reggaeton
 4q3ewBCX7sLwd24euuV69X,trap latino
 0EFisYRi20PTADoJrifHrz,latin
 0EFisYRi20PTADoJrifHrz,reggaeton
 0EFisYRi20PTADoJrifHrz,trap latino
+6LuN9FCkKOj5PcnpouEgny,alternative r&b
+6LuN9FCkKOj5PcnpouEgny,pop
 2o5jDhtHVPhrJdv3cEQ99Z,big room
 2o5jDhtHVPhrJdv3cEQ99Z,brostep
 2o5jDhtHVPhrJdv3cEQ99Z,dance pop
@@ -45,10 +45,6 @@ artist_id,genre
 2LmcxBak1alK1bf7d1beTr,reggaeton
 2LmcxBak1alK1bf7d1beTr,reggaeton flow
 2LmcxBak1alK1bf7d1beTr,trap latino
-4kYSro6naA4h99UJvo89HB,dance pop
-4kYSro6naA4h99UJvo89HB,pop
-4kYSro6naA4h99UJvo89HB,pop rap
-4kYSro6naA4h99UJvo89HB,rap
 6fWVd57NKTalqvmjRd2t8Z,cali rap
 6ASri4ePR7RlsvIQgWPJpS,melodic rap
 6ASri4ePR7RlsvIQgWPJpS,pop rap
@@ -62,25 +58,18 @@ artist_id,genre
 4IVAbR2w4JJNJDDRFP3E83,pop rap
 4IVAbR2w4JJNJDDRFP3E83,rap
 4IVAbR2w4JJNJDDRFP3E83,trap
+4kYSro6naA4h99UJvo89HB,dance pop
+4kYSro6naA4h99UJvo89HB,pop
+4kYSro6naA4h99UJvo89HB,pop rap
+4kYSro6naA4h99UJvo89HB,rap
+5cj0lLjcoR7YOSnhnX0Po5,dance pop
+5cj0lLjcoR7YOSnhnX0Po5,pop
+2tIP7SsRs7vjIcLrU85W8J,australian hip hop
 1anyVhU62p31KFi8MEzkbf,chicago rap
 1anyVhU62p31KFi8MEzkbf,conscious hip hop
 1anyVhU62p31KFi8MEzkbf,hip hop
 1anyVhU62p31KFi8MEzkbf,pop rap
 1anyVhU62p31KFi8MEzkbf,rap
-2tIP7SsRs7vjIcLrU85W8J,australian hip hop
-5cj0lLjcoR7YOSnhnX0Po5,dance pop
-5cj0lLjcoR7YOSnhnX0Po5,pop
-7i9j813KFoSBMldGqlh2Z1,house
-7i9j813KFoSBMldGqlh2Z1,pop dance
-7i9j813KFoSBMldGqlh2Z1,tropical house
-7i9j813KFoSBMldGqlh2Z1,uk dance
-1gALaWbNDnwS2ECV09sn2A,disco house
-3TVXtAsR1Inumwj472S9r4,canadian hip hop
-3TVXtAsR1Inumwj472S9r4,canadian pop
-3TVXtAsR1Inumwj472S9r4,hip hop
-3TVXtAsR1Inumwj472S9r4,pop rap
-3TVXtAsR1Inumwj472S9r4,rap
-3TVXtAsR1Inumwj472S9r4,toronto rap
 7ltDVBr6mKbRvohxheJ9h1,r&b en espanol
 4riOEaOW5hCeqomFDBk0aP,dembow
 4riOEaOW5hCeqomFDBk0aP,rap dominicano
@@ -89,25 +78,56 @@ artist_id,genre
 2UZIAOlrnyZmyzt1nuXr9y,r&b argentino
 2UZIAOlrnyZmyzt1nuXr9y,trap argentino
 2UZIAOlrnyZmyzt1nuXr9y,trap latino
+3TVXtAsR1Inumwj472S9r4,canadian hip hop
+3TVXtAsR1Inumwj472S9r4,canadian pop
+3TVXtAsR1Inumwj472S9r4,hip hop
+3TVXtAsR1Inumwj472S9r4,pop rap
+3TVXtAsR1Inumwj472S9r4,rap
+3TVXtAsR1Inumwj472S9r4,toronto rap
+7i9j813KFoSBMldGqlh2Z1,house
+7i9j813KFoSBMldGqlh2Z1,pop dance
+7i9j813KFoSBMldGqlh2Z1,tropical house
+7i9j813KFoSBMldGqlh2Z1,uk dance
 5CiGnKThu5ctn9pBxv7DGa,electropop
 5CiGnKThu5ctn9pBxv7DGa,pop
 5CiGnKThu5ctn9pBxv7DGa,pop dance
 5CiGnKThu5ctn9pBxv7DGa,pop rap
 6KImCVD70vtIoJWnq6nGn3,pop
 6KImCVD70vtIoJWnq6nGn3,post-teen pop
-4Euia7UzdRshy1DJOSMTcs,pop dance
+3Nrfpe0tUJi4K4DXYWgMUX,k-pop
+3Nrfpe0tUJi4K4DXYWgMUX,k-pop boy group
 790FomKkXshlbRYZFtlgla,latin
 790FomKkXshlbRYZFtlgla,reggaeton
 790FomKkXshlbRYZFtlgla,reggaeton colombiano
 790FomKkXshlbRYZFtlgla,trap latino
+3klZnJvYGIbWritVwQD434,dutch pop
+7tYKF4w9nC0nq9CsPZTHyP,pop
+7tYKF4w9nC0nq9CsPZTHyP,pop rap
 0C8ZW7ezQVs4URX5aX7Kqx,dance pop
 0C8ZW7ezQVs4URX5aX7Kqx,pop
 0C8ZW7ezQVs4URX5aX7Kqx,pop dance
 0C8ZW7ezQVs4URX5aX7Kqx,post-teen pop
 1mcTU81TzQhprhouKaTkpq,puerto rican pop
 1mcTU81TzQhprhouKaTkpq,trap latino
-3Nrfpe0tUJi4K4DXYWgMUX,k-pop
-3Nrfpe0tUJi4K4DXYWgMUX,k-pop boy group
+66CXWjxzNUsdJxJ2JdwvnR,dance pop
+66CXWjxzNUsdJxJ2JdwvnR,pop
+66CXWjxzNUsdJxJ2JdwvnR,post-teen pop
+4GNC7GD6oZMSxPGyXy4MNB,pop
+4GNC7GD6oZMSxPGyXy4MNB,uk pop
+4Euia7UzdRshy1DJOSMTcs,pop dance
+7arQA31aZVS8yS6zUveWzb,trap
+4yvcSjfu4PC0CYQyLy4wSq,gauze pop
+4yvcSjfu4PC0CYQyLy4wSq,indietronica
+4yvcSjfu4PC0CYQyLy4wSq,shiver pop
+0n6sKrG0xKAf8xmdqeNGke,reggaeton
+0n6sKrG0xKAf8xmdqeNGke,reggaeton flow
+0n6sKrG0xKAf8xmdqeNGke,trap latino
+0n6sKrG0xKAf8xmdqeNGke,tropical
+3E6xrwgnVfYCrCs0ePERDz,latin
+3E6xrwgnVfYCrCs0ePERDz,latin hip hop
+3E6xrwgnVfYCrCs0ePERDz,reggaeton
+3E6xrwgnVfYCrCs0ePERDz,trap latino
+3E6xrwgnVfYCrCs0ePERDz,tropical
 7jZM5w05mGhw6wTB1okhD9,german dance
 7jZM5w05mGhw6wTB1okhD9,german techno
 7jZM5w05mGhw6wTB1okhD9,german trance
@@ -119,24 +139,12 @@ artist_id,genre
 0u6GtibW46tFX7koQ6uNJZ,pop edm
 0u6GtibW46tFX7koQ6uNJZ,tropical house
 5Wg2b4Mp42gicxEeDNawf7,scandipop
-7arQA31aZVS8yS6zUveWzb,trap
-7tYKF4w9nC0nq9CsPZTHyP,pop
-7tYKF4w9nC0nq9CsPZTHyP,pop rap
-66CXWjxzNUsdJxJ2JdwvnR,dance pop
-66CXWjxzNUsdJxJ2JdwvnR,pop
-66CXWjxzNUsdJxJ2JdwvnR,post-teen pop
-3klZnJvYGIbWritVwQD434,dutch pop
 41QLxRXlc2NwfJZkHGHKid,sertanejo
 41QLxRXlc2NwfJZkHGHKid,sertanejo pop
 41QLxRXlc2NwfJZkHGHKid,sertanejo universitario
-46MWeeHNVMYRIIofQBEX98,trap soul
-6USv9qhCn6zfxlBQIYJ9qs,alternative pop rock
-6USv9qhCn6zfxlBQIYJ9qs,pop
 0Y5tJX1MQlPlqiwlOH1tJY,rap
 0Y5tJX1MQlPlqiwlOH1tJY,slap house
 2o08sCWF5yyo2G4DCiT7T9,slap house
-4GNC7GD6oZMSxPGyXy4MNB,pop
-4GNC7GD6oZMSxPGyXy4MNB,uk pop
 716NhGYqD1jl2wI1Qkgq36,argentine hip hop
 716NhGYqD1jl2wI1Qkgq36,pop venezolano
 716NhGYqD1jl2wI1Qkgq36,trap argentino
@@ -144,7 +152,6 @@ artist_id,genre
 3Apb2lGmGJaBmr0TTBJvIZ,trap argentino
 3Apb2lGmGJaBmr0TTBJvIZ,trap triste
 4m6ubhNsdwF4psNf3R8kwR,argentine hip hop
-4m6ubhNsdwF4psNf3R8kwR,reggaeton
 4m6ubhNsdwF4psNf3R8kwR,trap argentino
 4m6ubhNsdwF4psNf3R8kwR,trap latino
 4m6ubhNsdwF4psNf3R8kwR,trap triste
@@ -167,13 +174,13 @@ artist_id,genre
 6w3SkAHYPsQ1bxV7VDlG5y,trap argentino
 6w3SkAHYPsQ1bxV7VDlG5y,trap latino
 48R2gYdPKtfnfKAzhSVPUx,cumbia pop
+7HSeegdmjLYRJpkOYIaZIW,cumbia pop
+1kyy6AW7C6Rr2jrYwz95Gi,cumbia pop
 2R21vXR83lH98kGeO99Y66,latin
 2R21vXR83lH98kGeO99Y66,reggaeton
 2R21vXR83lH98kGeO99Y66,reggaeton flow
 2R21vXR83lH98kGeO99Y66,trap boricua
 2R21vXR83lH98kGeO99Y66,trap latino
-7HSeegdmjLYRJpkOYIaZIW,cumbia pop
-1kyy6AW7C6Rr2jrYwz95Gi,cumbia pop
 77ziqFxp5gaInVrF2lj4ht,latin
 77ziqFxp5gaInVrF2lj4ht,panamanian pop
 77ziqFxp5gaInVrF2lj4ht,reggaeton
@@ -186,6 +193,8 @@ artist_id,genre
 2oQX8QiMXOyuqbcZEFsZfm,reggaeton
 2oQX8QiMXOyuqbcZEFsZfm,trap latino
 2oQX8QiMXOyuqbcZEFsZfm,tropical
+3VHAySZQPlfGlNLslzXYpN,r&b en espanol
+3VHAySZQPlfGlNLslzXYpN,rap latina
 0tmwSHipWxN12fsoLcFU3B,colombian pop
 0tmwSHipWxN12fsoLcFU3B,latin
 0tmwSHipWxN12fsoLcFU3B,latin pop
@@ -193,8 +202,6 @@ artist_id,genre
 0tmwSHipWxN12fsoLcFU3B,reggaeton colombiano
 0tmwSHipWxN12fsoLcFU3B,trap latino
 0tmwSHipWxN12fsoLcFU3B,tropical
-3VHAySZQPlfGlNLslzXYpN,r&b en espanol
-3VHAySZQPlfGlNLslzXYpN,rap latina
 07YUOmWljBTXwIseAUd9TW,colombian pop
 07YUOmWljBTXwIseAUd9TW,latin
 07YUOmWljBTXwIseAUd9TW,latin pop
@@ -209,9 +216,6 @@ artist_id,genre
 1aw0Cdl1DIrtUrUA6fGbAR,argentine rock
 1aw0Cdl1DIrtUrUA6fGbAR,latin alternative
 1aw0Cdl1DIrtUrUA6fGbAR,rock en espanol
-14zUHaJZo1mnYtn6IBRaRP,latin
-14zUHaJZo1mnYtn6IBRaRP,reggaeton
-14zUHaJZo1mnYtn6IBRaRP,trap latino
 1i8SpTcr7yvPOmcqrbnVXY,latin
 1i8SpTcr7yvPOmcqrbnVXY,puerto rican pop
 1i8SpTcr7yvPOmcqrbnVXY,reggaeton
@@ -222,16 +226,19 @@ artist_id,genre
 1vyhD5VmyZ7KMfW5gqLgo5,trap latino
 37230BxxYs9ksS7OkZw3IU,reggaeton flow
 37230BxxYs9ksS7OkZw3IU,trap latino
-52qzWdNUp6ebjcNsvgZSiC,pop venezolano
+14zUHaJZo1mnYtn6IBRaRP,latin
+14zUHaJZo1mnYtn6IBRaRP,reggaeton
+14zUHaJZo1mnYtn6IBRaRP,trap latino
 1SupJlEpv7RS2tPNRaHViT,latin
 1SupJlEpv7RS2tPNRaHViT,latin hip hop
 1SupJlEpv7RS2tPNRaHViT,reggaeton
 1SupJlEpv7RS2tPNRaHViT,trap latino
 1SupJlEpv7RS2tPNRaHViT,tropical
-4kcQWQDK0u9AftVSpdrAgk,trap argentino
-4kcQWQDK0u9AftVSpdrAgk,trap triste
+52qzWdNUp6ebjcNsvgZSiC,pop venezolano
 1r4hJ1h58CWwUQe3MxPuau,reggaeton
 1r4hJ1h58CWwUQe3MxPuau,reggaeton colombiano
+4kcQWQDK0u9AftVSpdrAgk,trap argentino
+4kcQWQDK0u9AftVSpdrAgk,trap triste
 7kXCcNRLEnblbTAppPraBp,reggaeton
 7kXCcNRLEnblbTAppPraBp,reggaeton flow
 7kXCcNRLEnblbTAppPraBp,trap latino
@@ -258,45 +265,40 @@ artist_id,genre
 1pQWsZQehhS4wavwh7Fnxd,reggaeton flow
 1pQWsZQehhS4wavwh7Fnxd,trap argentino
 1pQWsZQehhS4wavwh7Fnxd,trap latino
-3E6xrwgnVfYCrCs0ePERDz,latin
-3E6xrwgnVfYCrCs0ePERDz,latin hip hop
-3E6xrwgnVfYCrCs0ePERDz,reggaeton
-3E6xrwgnVfYCrCs0ePERDz,trap latino
-3E6xrwgnVfYCrCs0ePERDz,tropical
-0n6sKrG0xKAf8xmdqeNGke,reggaeton
-0n6sKrG0xKAf8xmdqeNGke,reggaeton flow
-0n6sKrG0xKAf8xmdqeNGke,trap latino
-0n6sKrG0xKAf8xmdqeNGke,tropical
 4oZolC0sCwCAKqsNXfRlVS,cumbia pop
 2to8xMgnoxHCXPF7eWJPvg,cumbia paraguaya
 2to8xMgnoxHCXPF7eWJPvg,cumbia villera
 4SgKWjM7cJDCh2aY9H4HZf,cumbia pop
 4SgKWjM7cJDCh2aY9H4HZf,cumbia villera
-0eecdvMrqBftK0M1VKhaF4,boy band
-0eecdvMrqBftK0M1VKhaF4,latin
-0eecdvMrqBftK0M1VKhaF4,latin pop
-0eecdvMrqBftK0M1VKhaF4,reggaeton
-0eecdvMrqBftK0M1VKhaF4,tropical
 3ghRXw2nUEH2THaL82hw8R,cuarteto
 3ghRXw2nUEH2THaL82hw8R,cumbia pop
+0Xo4VFS3v07L0GwIVkZLfg,argentine hip hop
 4VMYDCV2IEDYJArk749S6m,latin
 4VMYDCV2IEDYJArk749S6m,latin hip hop
 4VMYDCV2IEDYJArk749S6m,reggaeton
 4VMYDCV2IEDYJArk749S6m,trap latino
 4VMYDCV2IEDYJArk749S6m,tropical
+0eecdvMrqBftK0M1VKhaF4,boy band
+0eecdvMrqBftK0M1VKhaF4,latin
+0eecdvMrqBftK0M1VKhaF4,latin pop
+0eecdvMrqBftK0M1VKhaF4,reggaeton
+0eecdvMrqBftK0M1VKhaF4,tropical
 1Ts9of7VPZElwPQnqnDSfW,latin
 1Ts9of7VPZElwPQnqnDSfW,reggaeton
 1Ts9of7VPZElwPQnqnDSfW,reggaeton flow
 1Ts9of7VPZElwPQnqnDSfW,trap boricua
 1Ts9of7VPZElwPQnqnDSfW,trap latino
-0Xo4VFS3v07L0GwIVkZLfg,argentine hip hop
-4yvcSjfu4PC0CYQyLy4wSq,gauze pop
-4yvcSjfu4PC0CYQyLy4wSq,indietronica
-4yvcSjfu4PC0CYQyLy4wSq,shiver pop
 1KCSPY1glIKqW2TotWuXOR,dance pop
 1KCSPY1glIKqW2TotWuXOR,pop
 1KCSPY1glIKqW2TotWuXOR,post-teen pop
 0gAILSEru1PKMwP0tAqNLS,show tunes
+4npEfmQ6YuiwW1GpUmaq3F,dance pop
+4npEfmQ6YuiwW1GpUmaq3F,pop
+45dkTj5sMRSjrmBSBeiHym,alt z
+45dkTj5sMRSjrmBSBeiHym,dance pop
+45dkTj5sMRSjrmBSBeiHym,electropop
+45dkTj5sMRSjrmBSBeiHym,pop
+45dkTj5sMRSjrmBSBeiHym,post-teen pop
 6DgP9otnZw5z6daOntINxp,dance pop
 6DgP9otnZw5z6daOntINxp,house
 6DgP9otnZw5z6daOntINxp,pop dance
@@ -306,12 +308,8 @@ artist_id,genre
 7uMh23xWiuR7zsNkuNcm2G,tropical house
 7uMh23xWiuR7zsNkuNcm2G,uk contemporary r&b
 7uMh23xWiuR7zsNkuNcm2G,uk dance
-181bsRPaVXVlUKXrxwZfHK,houston rap
-181bsRPaVXVlUKXrxwZfHK,pop
-181bsRPaVXVlUKXrxwZfHK,pop rap
-181bsRPaVXVlUKXrxwZfHK,trap queen
-4npEfmQ6YuiwW1GpUmaq3F,dance pop
-4npEfmQ6YuiwW1GpUmaq3F,pop
+2NjfBq1NflQcKSeiDooVjY,australian pop
+2NjfBq1NflQcKSeiDooVjY,pop
 0xRXCcSX89eobfrshSVdyu,edm
 0xRXCcSX89eobfrshSVdyu,pop dance
 0xRXCcSX89eobfrshSVdyu,pop house
@@ -319,14 +317,6 @@ artist_id,genre
 5KNNVgR6LBIABRIomyCwKJ,folk-pop
 5KNNVgR6LBIABRIomyCwKJ,irish pop
 5KNNVgR6LBIABRIomyCwKJ,pop
-2NjfBq1NflQcKSeiDooVjY,australian pop
-2NjfBq1NflQcKSeiDooVjY,pop
-08GQAI4eElDnROBrJRGE0X,album rock
-08GQAI4eElDnROBrJRGE0X,classic rock
-08GQAI4eElDnROBrJRGE0X,mellow gold
-08GQAI4eElDnROBrJRGE0X,rock
-08GQAI4eElDnROBrJRGE0X,soft rock
-08GQAI4eElDnROBrJRGE0X,yacht rock
 137W8MRPWKqSmrBGDBFSop,hip hop
 137W8MRPWKqSmrBGDBFSop,pittsburgh rap
 137W8MRPWKqSmrBGDBFSop,pop rap
@@ -336,18 +326,33 @@ artist_id,genre
 67hb7towEyKvt5Z8Bx306c,alternative dance
 67hb7towEyKvt5Z8Bx306c,australian dance
 67hb7towEyKvt5Z8Bx306c,australian electropop
-67hb7towEyKvt5Z8Bx306c,dance-punk
 67hb7towEyKvt5Z8Bx306c,electropop
 67hb7towEyKvt5Z8Bx306c,indietronica
 67hb7towEyKvt5Z8Bx306c,neo-synthpop
 67hb7towEyKvt5Z8Bx306c,new rave
-45dkTj5sMRSjrmBSBeiHym,alt z
-45dkTj5sMRSjrmBSBeiHym,dance pop
-45dkTj5sMRSjrmBSBeiHym,electropop
-45dkTj5sMRSjrmBSBeiHym,pop
-45dkTj5sMRSjrmBSBeiHym,post-teen pop
-0eDvMgVFoNV3TpwtrVCoTj,brooklyn drill
 6s22t5Y3prQHyaHWUN1R1C,modern rock
+6V70yeZQCoSR2M3fyW8qiA,australian indie
+6V70yeZQCoSR2M3fyW8qiA,australian indie rock
+6V70yeZQCoSR2M3fyW8qiA,australian pop
+6V70yeZQCoSR2M3fyW8qiA,fremantle indie
+6V70yeZQCoSR2M3fyW8qiA,perth indie
+08GQAI4eElDnROBrJRGE0X,album rock
+08GQAI4eElDnROBrJRGE0X,classic rock
+08GQAI4eElDnROBrJRGE0X,mellow gold
+08GQAI4eElDnROBrJRGE0X,rock
+08GQAI4eElDnROBrJRGE0X,soft rock
+08GQAI4eElDnROBrJRGE0X,yacht rock
+0eDvMgVFoNV3TpwtrVCoTj,brooklyn drill
+6L1XC7NrmgWRlwAeLJvVtA,australian pop
+6L1XC7NrmgWRlwAeLJvVtA,pop
+6S2OmqARrzebs0tKUEyXyp,dance pop
+6S2OmqARrzebs0tKUEyXyp,pop
+6S2OmqARrzebs0tKUEyXyp,pop dance
+6S2OmqARrzebs0tKUEyXyp,post-teen pop
+181bsRPaVXVlUKXrxwZfHK,houston rap
+181bsRPaVXVlUKXrxwZfHK,pop
+181bsRPaVXVlUKXrxwZfHK,pop rap
+181bsRPaVXVlUKXrxwZfHK,trap queen
 6MPCFvOQv5cIGfw3jODMF0,pop rap
 6MPCFvOQv5cIGfw3jODMF0,rap
 6MPCFvOQv5cIGfw3jODMF0,trap
@@ -363,51 +368,35 @@ artist_id,genre
 7rkW85dBwwrJtlHRDkJDAC,rap
 7rkW85dBwwrJtlHRDkJDAC,toronto rap
 7rkW85dBwwrJtlHRDkJDAC,trap
-6V70yeZQCoSR2M3fyW8qiA,australian indie
-6V70yeZQCoSR2M3fyW8qiA,australian indie rock
-6V70yeZQCoSR2M3fyW8qiA,australian pop
-6V70yeZQCoSR2M3fyW8qiA,fremantle indie
-6V70yeZQCoSR2M3fyW8qiA,perth indie
-757aE44tKEUQEqRuT6GnEB,melodic rap
-757aE44tKEUQEqRuT6GnEB,rap
-757aE44tKEUQEqRuT6GnEB,trap
-1IueXOQyABrMOprrzwQJWN,dance pop
-1IueXOQyABrMOprrzwQJWN,edm
-1IueXOQyABrMOprrzwQJWN,pop
-1IueXOQyABrMOprrzwQJWN,pop dance
-1IueXOQyABrMOprrzwQJWN,tropical house
-4IWBUUAFIplrNtaOHcJPRM,pop
-4IWBUUAFIplrNtaOHcJPRM,talent show
-4IWBUUAFIplrNtaOHcJPRM,uk pop
 5pVRwX5ZQR7hfJ18w8ZYkl,german cloud rap
 5pVRwX5ZQR7hfJ18w8ZYkl,german hip hop
 18ISxWwWjV6rPLoVCXf1dz,german cloud rap
 18ISxWwWjV6rPLoVCXf1dz,german hip hop
-13bDjug9N0pyv3ZUINjkDV,german hip hop
-13bDjug9N0pyv3ZUINjkDV,german pop
-1qQLhymHXFPtP5U8KNKsm6,german hip hop
 7ADRm1oT7VmhRRZrZqycV6,german alternative rap
 7ADRm1oT7VmhRRZrZqycV6,german trap
 7ADRm1oT7VmhRRZrZqycV6,tekk
 7oWrEQO1d3klp0Qrfh7a5h,frauenrap
 7oWrEQO1d3klp0Qrfh7a5h,german drill
 7oWrEQO1d3klp0Qrfh7a5h,german hip hop
+13bDjug9N0pyv3ZUINjkDV,german hip hop
+13bDjug9N0pyv3ZUINjkDV,german pop
+1qQLhymHXFPtP5U8KNKsm6,german hip hop
 03d2mJXSMtuPI0nIvLnhoS,german pop
+3tQzzidoPfVifoURnDfgmD,german trap
+6eUKZXaKkcviH0Ku9w2n3V,pop
+6eUKZXaKkcviH0Ku9w2n3V,uk pop
 4AKwRarlmsUlLjIwt38NLw,new french touch
 4AKwRarlmsUlLjIwt38NLw,pop dance
 4AKwRarlmsUlLjIwt38NLw,tropical house
 2fsk4VlJdNF6G8cCMDrrzB,nyc pop
 3CJKkU0XuElRT1z8rEtIYg,german drill
 3CJKkU0XuElRT1z8rEtIYg,german hip hop
-3tQzzidoPfVifoURnDfgmD,german trap
+0bmxU94V20pNJ2Vie9kFYv,german pop
 09agIJMxCD2k87ys9Al0f0,german dance
 09agIJMxCD2k87ys9Al0f0,pop dance
 09agIJMxCD2k87ys9Al0f0,slap house
 09agIJMxCD2k87ys9Al0f0,tropical house
 46aNfN89JrOQTCy97GoCHa,german pop rock
-6eUKZXaKkcviH0Ku9w2n3V,pop
-6eUKZXaKkcviH0Ku9w2n3V,uk pop
-0bmxU94V20pNJ2Vie9kFYv,german pop
 3ZuBEj9ppJe8GSdKaMTfMN,german hip hop
 3ZuBEj9ppJe8GSdKaMTfMN,swedish hip hop
 3t5xRXzsuZmMDkQzgOX35S,dance pop
@@ -419,38 +408,42 @@ artist_id,genre
 3t5xRXzsuZmMDkQzgOX35S,pop dance
 3t5xRXzsuZmMDkQzgOX35S,tropical house
 5pXe6yFchq1oyYK3rq2A8i,scandipop
-2ErWLckuGFl84nGmg5fwyG,austrian pop
-2ErWLckuGFl84nGmg5fwyG,german pop
-2ErWLckuGFl84nGmg5fwyG,german rock
-2ErWLckuGFl84nGmg5fwyG,vienna indie
+07YZf4WDAMNwqr4jfgOZ8y,dance pop
+07YZf4WDAMNwqr4jfgOZ8y,pop
+07YZf4WDAMNwqr4jfgOZ8y,pop dance
+07YZf4WDAMNwqr4jfgOZ8y,pop rap
+07YZf4WDAMNwqr4jfgOZ8y,post-teen pop
+4WZGDpNwrC0vNQyl9QzF7d,german hip hop
+4sVieJlKgpZ2k9ESNS5IdN,german hip hop
 4mrBetqy378Jf1y6NLszlx,edm
 4mrBetqy378Jf1y6NLszlx,electro house
 4mrBetqy378Jf1y6NLszlx,melbourne bounce international
 4mrBetqy378Jf1y6NLszlx,pop dance
 4mrBetqy378Jf1y6NLszlx,progressive electro house
 4mrBetqy378Jf1y6NLszlx,slap house
-07YZf4WDAMNwqr4jfgOZ8y,dance pop
-07YZf4WDAMNwqr4jfgOZ8y,pop
-07YZf4WDAMNwqr4jfgOZ8y,pop dance
-07YZf4WDAMNwqr4jfgOZ8y,pop rap
-07YZf4WDAMNwqr4jfgOZ8y,post-teen pop
+2ErWLckuGFl84nGmg5fwyG,austrian pop
+2ErWLckuGFl84nGmg5fwyG,german pop
+2ErWLckuGFl84nGmg5fwyG,german rock
+2ErWLckuGFl84nGmg5fwyG,vienna indie
+2qMezKrAKRh2Z2uR3fCqHt,german hip hop
 325L7kby6bkG5qSXXAFEWM,german hip hop
-4WZGDpNwrC0vNQyl9QzF7d,german hip hop
-4sVieJlKgpZ2k9ESNS5IdN,german hip hop
 2NJWI8byqTSqDaJRnqJY2z,german hip hop
 2NJWI8byqTSqDaJRnqJY2z,german trap
 2NJWI8byqTSqDaJRnqJY2z,german underground rap
 2NJWI8byqTSqDaJRnqJY2z,hamburg hip hop
-2qMezKrAKRh2Z2uR3fCqHt,german hip hop
 3Hvx3BM0K4FHBs9J3k8G6V,german hip hop
+3Hvx3BM0K4FHBs9J3k8G6V,german trap
 3Hvx3BM0K4FHBs9J3k8G6V,german underground rap
-3QVolfxko2UyCOtexhVTli,belgian pop
-3QVolfxko2UyCOtexhVTli,variete francaise
+757aE44tKEUQEqRuT6GnEB,melodic rap
+757aE44tKEUQEqRuT6GnEB,rap
+757aE44tKEUQEqRuT6GnEB,trap
 2kXKa3aAFngGz2P4GjG5w2,french hip hop
 2kXKa3aAFngGz2P4GjG5w2,pop urbaine
 2kXKa3aAFngGz2P4GjG5w2,rap francais
 2kXKa3aAFngGz2P4GjG5w2,rap marseille
 76Pl0epAMXVXJspaSuz8im,drill francais
+3QVolfxko2UyCOtexhVTli,belgian pop
+3QVolfxko2UyCOtexhVTli,variete francaise
 1yxSLGMDHlW21z4YXirZDS,dance pop
 1yxSLGMDHlW21z4YXirZDS,pop
 1yxSLGMDHlW21z4YXirZDS,pop dance
@@ -462,21 +455,14 @@ artist_id,genre
 0EmeFodog0BfCgMzAIvKQp,pop
 7hdCH3dJ27WvUbo00gAMwE,kleinkunst
 5WxnXxSCyhDSyi6elhBZd4,dutch pop
-7jVv8c5Fj3E9VhNjxT4snq,country rap
-7jVv8c5Fj3E9VhNjxT4snq,lgbtq+ hip hop
-7jVv8c5Fj3E9VhNjxT4snq,pop rap
-7jVv8c5Fj3E9VhNjxT4snq,queer country
 5TgQ66WuWkoQ2xYxaSTnVP,belgian edm
 5TgQ66WuWkoQ2xYxaSTnVP,drum and bass
 5TgQ66WuWkoQ2xYxaSTnVP,liquid funk
 05lF0DUkLJqiW5o70SScyR,drum and bass
-58wXmynHaAWI5hwlPZP3qL,french hip hop
-58wXmynHaAWI5hwlPZP3qL,old school rap francais
-58wXmynHaAWI5hwlPZP3qL,pop urbaine
-58wXmynHaAWI5hwlPZP3qL,rap conscient
-7J0JxtOPMKWufOraoIqjiH,french hip hop
-7J0JxtOPMKWufOraoIqjiH,pop urbaine
-7J0JxtOPMKWufOraoIqjiH,rap francais
+7jVv8c5Fj3E9VhNjxT4snq,country rap
+7jVv8c5Fj3E9VhNjxT4snq,lgbtq+ hip hop
+7jVv8c5Fj3E9VhNjxT4snq,pop rap
+7jVv8c5Fj3E9VhNjxT4snq,queer country
 1RBzGO6Nm3uyhUSxP7EDWO,latin
 1RBzGO6Nm3uyhUSxP7EDWO,latin hip hop
 1RBzGO6Nm3uyhUSxP7EDWO,reggaeton
@@ -489,16 +475,16 @@ artist_id,genre
 6w9ToX5slZ4uIdmD17hJ3c,reggaeton flow
 6w9ToX5slZ4uIdmD17hJ3c,trap latino
 6w9ToX5slZ4uIdmD17hJ3c,tropical
+0XwVARXT135rw8lyw1EeWP,mariachi
+0XwVARXT135rw8lyw1EeWP,nuevo regional mexicano
+0XwVARXT135rw8lyw1EeWP,ranchera
+0XwVARXT135rw8lyw1EeWP,regional mexican
 4bw2Am3p9ji3mYsXNXtQcd,colombian pop
 4bw2Am3p9ji3mYsXNXtQcd,latin
 4bw2Am3p9ji3mYsXNXtQcd,latin pop
 4bw2Am3p9ji3mYsXNXtQcd,reggaeton
 4bw2Am3p9ji3mYsXNXtQcd,reggaeton colombiano
 4bw2Am3p9ji3mYsXNXtQcd,trap latino
-0XwVARXT135rw8lyw1EeWP,mariachi
-0XwVARXT135rw8lyw1EeWP,nuevo regional mexicano
-0XwVARXT135rw8lyw1EeWP,ranchera
-0XwVARXT135rw8lyw1EeWP,regional mexican
 2ydZrTy8U3kOMOzx20s3dg,latin
 2ydZrTy8U3kOMOzx20s3dg,latin hip hop
 2ydZrTy8U3kOMOzx20s3dg,reggaeton
@@ -508,9 +494,9 @@ artist_id,genre
 5lwmRuXgjX8xIwlnauTZIP,bachata
 5lwmRuXgjX8xIwlnauTZIP,latin
 5lwmRuXgjX8xIwlnauTZIP,tropical
-6ZtLRqHEkAXPWVw0eRbDac,trap venezolano
 6i3DxIlAqnDkwELLw4aVrx,latin pop
 6i3DxIlAqnDkwELLw4aVrx,viral pop
+6ZtLRqHEkAXPWVw0eRbDac,trap venezolano
 7f02bxFbZIOVdSbYRNYvLT,cubaton
 7f02bxFbZIOVdSbYRNYvLT,pop venezolano
 7f02bxFbZIOVdSbYRNYvLT,reggaeton
@@ -553,25 +539,28 @@ artist_id,genre
 0MInKJqZscEeNc5K3K0mkE,sertanejo
 0MInKJqZscEeNc5K3K0mkE,sertanejo pop
 0MInKJqZscEeNc5K3K0mkE,sertanejo universitario
+43DRDu6nLSeIedZ7T1A616,forro de favela
+43DRDu6nLSeIedZ7T1A616,funk carioca
+43DRDu6nLSeIedZ7T1A616,sertanejo pop
 5wbf52LA6kcaboHSN6NEF1,funk carioca
+6m6e7D2TnV0aYMllFFwMxu,sertanejo pop
 68YeXpLt3jB7JHQS5ZjMGo,trap baiano
 5nP8x4uEFjAAmDzwOEc9b8,r&b brasileiro
 5nP8x4uEFjAAmDzwOEc9b8,rap cearense
 5nP8x4uEFjAAmDzwOEc9b8,trap brasileiro
-6m6e7D2TnV0aYMllFFwMxu,sertanejo pop
-43DRDu6nLSeIedZ7T1A616,forro de favela
-43DRDu6nLSeIedZ7T1A616,funk carioca
-43DRDu6nLSeIedZ7T1A616,sertanejo pop
 7MiDcPa6UiV3In7lIM71IN,sertanejo
 7MiDcPa6UiV3In7lIM71IN,sertanejo universitario
-1TYJOhNSxMOODWiDVhuyZb,brazilian hip hop
-1mV9h1AwhRXSjBFcYpajgY,funk carioca
-1mV9h1AwhRXSjBFcYpajgY,funk ostentacao
-1mV9h1AwhRXSjBFcYpajgY,funk paulista
 22jNvLBrXGKr4CcV2tw8Ag,forro
 22jNvLBrXGKr4CcV2tw8Ag,sertanejo
 22jNvLBrXGKr4CcV2tw8Ag,sertanejo pop
 22jNvLBrXGKr4CcV2tw8Ag,sertanejo universitario
+1TYJOhNSxMOODWiDVhuyZb,brazilian hip hop
+1mV9h1AwhRXSjBFcYpajgY,funk carioca
+1mV9h1AwhRXSjBFcYpajgY,funk ostentacao
+1mV9h1AwhRXSjBFcYpajgY,funk paulista
+2Z0lRIqr997lIUiPtrpKCr,pop nacional
+2Z0lRIqr997lIUiPtrpKCr,sertanejo pop
+2Z0lRIqr997lIUiPtrpKCr,sertanejo universitario
 6xlRSRMLgZbsSNd0BMobwy,brazilian edm
 6xlRSRMLgZbsSNd0BMobwy,funk carioca
 6xlRSRMLgZbsSNd0BMobwy,funk das antigas
@@ -582,15 +571,14 @@ artist_id,genre
 3CDoRporvSjdzTrm99a3gi,funk pop
 3CDoRporvSjdzTrm99a3gi,pagode baiano
 3CDoRporvSjdzTrm99a3gi,pop nacional
-2Z0lRIqr997lIUiPtrpKCr,pop nacional
-2Z0lRIqr997lIUiPtrpKCr,sertanejo pop
-2Z0lRIqr997lIUiPtrpKCr,sertanejo universitario
+3PZTvUS5fUUhV3EKAjqdZk,rave funk
 1OwYxVDNKP9JtSpp5E0uA4,funk bh
 1OwYxVDNKP9JtSpp5E0uA4,funk carioca
-3PZTvUS5fUUhV3EKAjqdZk,rave funk
 3fll16LLw6kdDxWzSpJPEQ,forro
 2zWqENF4cnsd1nLmraG9IE,funk carioca
 1JQLCxphQYlnbokiEvfB8o,funk carioca
+007FXgr0jLBJxhPJjacXQH,forro
+007FXgr0jLBJxhPJjacXQH,sertanejo pop
 4PzYKhC14sTJNEr0dzoo0d,funk carioca
 4PzYKhC14sTJNEr0dzoo0d,pop nacional
 6tzRZ39aZlNqlUzQlkuhDV,dance pop
@@ -607,28 +595,26 @@ artist_id,genre
 1WXbiUMl1AT9Inb619xPUg,trap carioca
 25XJqeReVV38w0tR04GGBd,trap carioca
 25XJqeReVV38w0tR04GGBd,trap funk
-007FXgr0jLBJxhPJjacXQH,forro
-007FXgr0jLBJxhPJjacXQH,sertanejo pop
 0NsJZ5PMjqghGDuMzY7CuT,sertanejo
 0NsJZ5PMjqghGDuMzY7CuT,sertanejo pop
 0NsJZ5PMjqghGDuMzY7CuT,sertanejo universitario
-0pcoadNMmvrUyab1RxWBoV,funk carioca
-0pcoadNMmvrUyab1RxWBoV,funk consciente
-0pcoadNMmvrUyab1RxWBoV,funk ostentacao
-0pcoadNMmvrUyab1RxWBoV,funk paulista
 21WAvVROZ83oUvJwFTG2dH,sertanejo pop
 1zEo6Fk1iaaOYFlFPBHCFn,forro
 1zEo6Fk1iaaOYFlFPBHCFn,sertanejo
 1zEo6Fk1iaaOYFlFPBHCFn,sertanejo pop
 1zEo6Fk1iaaOYFlFPBHCFn,sertanejo universitario
+0pcoadNMmvrUyab1RxWBoV,funk carioca
+0pcoadNMmvrUyab1RxWBoV,funk consciente
+0pcoadNMmvrUyab1RxWBoV,funk ostentacao
+0pcoadNMmvrUyab1RxWBoV,funk paulista
 0vLuOi2k62sHujIfplInlK,brazilian hip hop
 0vLuOi2k62sHujIfplInlK,rap df
 0vLuOi2k62sHujIfplInlK,trap brasileiro
+736JbivCkAkdLP9xOA3jLs,brega funk
 1BrFcFtIp3ZqvuI5C0VcK3,funk bh
 1BrFcFtIp3ZqvuI5C0VcK3,funk carioca
 1BrFcFtIp3ZqvuI5C0VcK3,funk ostentacao
 4NYa9HEvARX9LXU4LRoGny,funk bh
-736JbivCkAkdLP9xOA3jLs,brega funk
 14jVHWj9dqpLhs8hHEMnyJ,funk carioca
 0MlMFTEEEk0uSwI4hYSxrq,funk bh
 6ZiGAU6TJQEyidFQ22eIOS,funk carioca
@@ -638,20 +624,23 @@ artist_id,genre
 4NUePmzDvCYqilXBFa91Hg,sertanejo pop
 3p7PcrEHaaKLJnPUGOtRlT,sertanejo pop
 3p7PcrEHaaKLJnPUGOtRlT,sertanejo universitario
+3vIccdVCJt0pImyvORjoQP,bulgarian pop
+4hcbbb8RBjFjCuMhmVv1b9,bulgarian pop
+4hcbbb8RBjFjCuMhmVv1b9,bulgarian rock
+4hcbbb8RBjFjCuMhmVv1b9,chalga
 4oopAFtLdKXCoq2XoEjDZD,bulgarian hip hop
 4oopAFtLdKXCoq2XoEjDZD,bulgarian pop
 4oopAFtLdKXCoq2XoEjDZD,chalga
 42APSc9etBGptl3otzihIZ,bulgarian pop
 42APSc9etBGptl3otzihIZ,chalga
-3vIccdVCJt0pImyvORjoQP,bulgarian pop
-4hcbbb8RBjFjCuMhmVv1b9,bulgarian pop
-4hcbbb8RBjFjCuMhmVv1b9,bulgarian rock
-4hcbbb8RBjFjCuMhmVv1b9,chalga
 4FTXvsvz433gZR67rhxFfN,bulgarian pop
 4FTXvsvz433gZR67rhxFfN,chalga
 09dmaVobfJspAF2KEumlH8,chalga
 4AZihrM3P96d5mA9kvsxxH,bulgarian pop
 4AZihrM3P96d5mA9kvsxxH,chalga
+77SW9BnxLY8rJ0RciFqkHh,modern alternative rock
+77SW9BnxLY8rJ0RciFqkHh,modern rock
+77SW9BnxLY8rJ0RciFqkHh,pop
 1UUQq3z2RCIqSE1eiP00Jv,bulgarian pop
 0msxvaLjlsLIudZFYaRFCP,bulgarian hip hop
 0R0fzWAz5QAKu0drOfvFsy,bulgarian pop
@@ -660,31 +649,29 @@ artist_id,genre
 5f7VJjfbwm532GiveGC0ZK,rap
 5f7VJjfbwm532GiveGC0ZK,trap
 6sEfX6ntbBxeWBLggUMyyq,bulgarian pop
-77SW9BnxLY8rJ0RciFqkHh,modern alternative rock
-77SW9BnxLY8rJ0RciFqkHh,modern rock
-77SW9BnxLY8rJ0RciFqkHh,pop
 6cK3NBO6uP7hh0oyuVELFl,cali rap
 6cK3NBO6uP7hh0oyuVELFl,dance pop
 6cK3NBO6uP7hh0oyuVELFl,pop
 6cK3NBO6uP7hh0oyuVELFl,pop rap
-6cK3NBO6uP7hh0oyuVELFl,post-teen pop
 6cK3NBO6uP7hh0oyuVELFl,trap queen
-1lxHE7dVKOVaIjGOIu8svG,bulgarian pop
-1lxHE7dVKOVaIjGOIu8svG,chalga
 5YGY8feqx7naU7z4HrwZM6,dance pop
 5YGY8feqx7naU7z4HrwZM6,pop
 5YGY8feqx7naU7z4HrwZM6,pop dance
 5YGY8feqx7naU7z4HrwZM6,post-teen pop
+1lxHE7dVKOVaIjGOIu8svG,bulgarian pop
+1lxHE7dVKOVaIjGOIu8svG,chalga
 3CcA9m1Ivpp5XmLt8SxUpn,bulgarian pop
 3CcA9m1Ivpp5XmLt8SxUpn,chalga
 0k0SPGRwjkmqM1rG8nNGjW,bulgarian pop
 0k0SPGRwjkmqM1rG8nNGjW,chalga
-5amPFw5XVlNzP7uSKBXtai,bulgarian pop
-1WOWylyMYTYIkDJmKLeSpQ,bulgarian pop
 31W5EY0aAly4Qieq6OFu6I,melodic rap
 31W5EY0aAly4Qieq6OFu6I,pop rap
 31W5EY0aAly4Qieq6OFu6I,rap
 31W5EY0aAly4Qieq6OFu6I,trap
+5amPFw5XVlNzP7uSKBXtai,bulgarian pop
+1WOWylyMYTYIkDJmKLeSpQ,bulgarian pop
+5M7RMcbgYy45XzC51HU355,bulgarian pop
+5M7RMcbgYy45XzC51HU355,chalga
 6AgTAQt8XS6jRWi4sX7w49,chicago rap
 14CHVeJGrR5xgUGQFV5BVM,brooklyn drill
 14CHVeJGrR5xgUGQFV5BVM,new york drill
@@ -693,8 +680,11 @@ artist_id,genre
 3wcj11K77LjEY1PkEazffa,dancehall
 3wcj11K77LjEY1PkEazffa,nigerian hip hop
 3wcj11K77LjEY1PkEazffa,nigerian pop
+46MWeeHNVMYRIIofQBEX98,trap soul
 04gDigrS5kc9YWfZHwBETP,pop
 04gDigrS5kc9YWfZHwBETP,pop rock
+6USv9qhCn6zfxlBQIYJ9qs,alternative pop rock
+6USv9qhCn6zfxlBQIYJ9qs,pop
 1sBkRIssrMs1AbVkOJbc7a,dirty south rap
 1sBkRIssrMs1AbVkOJbc7a,gangster rap
 1sBkRIssrMs1AbVkOJbc7a,hip hop
@@ -703,7 +693,6 @@ artist_id,genre
 1sBkRIssrMs1AbVkOJbc7a,southern hip hop
 1sBkRIssrMs1AbVkOJbc7a,trap
 0H39MdGGX6dbnnQPt6NQkZ,melodic rap
-0H39MdGGX6dbnnQPt6NQkZ,pop rap
 0H39MdGGX6dbnnQPt6NQkZ,rap
 0H39MdGGX6dbnnQPt6NQkZ,slap house
 5rGrDvrLOV2VV8SCFVGWlj,edm
@@ -729,11 +718,11 @@ artist_id,genre
 7thOJx5gcuoJcEcaoHsPAk,trap latino
 0NnUMWDCDi1snuMja6IdxH,trap chileno
 0NnUMWDCDi1snuMja6IdxH,trap latino
+1SiLK8gdECx2iEm2SSj0Bl,trap latino
 7rOlQwf8OuFLFQp4aydjBt,latin pop
 7rOlQwf8OuFLFQp4aydjBt,reggaeton chileno
 7rOlQwf8OuFLFQp4aydjBt,trap chileno
 7rOlQwf8OuFLFQp4aydjBt,trap latino
-1SiLK8gdECx2iEm2SSj0Bl,trap latino
 1fux65HMCBvfJHqlBc4Nno,latin
 1fux65HMCBvfJHqlBc4Nno,latin hip hop
 1fux65HMCBvfJHqlBc4Nno,reggaeton
@@ -773,6 +762,13 @@ artist_id,genre
 7xtnpHS34mLlxGZDVUBHSU,spanish pop rock
 7gU9VyFRN3JWPJ5oHOil60,francoton
 7gU9VyFRN3JWPJ5oHOil60,pop urbaine
+58wXmynHaAWI5hwlPZP3qL,french hip hop
+58wXmynHaAWI5hwlPZP3qL,old school rap francais
+58wXmynHaAWI5hwlPZP3qL,pop urbaine
+58wXmynHaAWI5hwlPZP3qL,rap conscient
+7J0JxtOPMKWufOraoIqjiH,french hip hop
+7J0JxtOPMKWufOraoIqjiH,pop urbaine
+7J0JxtOPMKWufOraoIqjiH,rap francais
 78Die3Gb8yaElTmGCa7m7N,francoton
 78Die3Gb8yaElTmGCa7m7N,french hip hop
 78Die3Gb8yaElTmGCa7m7N,pop urbaine
@@ -811,8 +807,6 @@ artist_id,genre
 05hirnMeVIzCrcUxbrysZU,pop urbaine
 5nH2klYTzn8CNvUv1GOGQO,francoton
 5nH2klYTzn8CNvUv1GOGQO,pop urbaine
-1f1DjtYgH6yBzBSiGteBJl,rap antillais
-1f1DjtYgH6yBzBSiGteBJl,zouk riddim
 2kIs76sEGiulKeqetZq6ua,francoton
 2kIs76sEGiulKeqetZq6ua,french hip hop
 2kIs76sEGiulKeqetZq6ua,pop urbaine
@@ -823,19 +817,23 @@ artist_id,genre
 5gqmbbfjcikQBzPB5Hv13I,pop urbaine
 5gqmbbfjcikQBzPB5Hv13I,rap francais
 3vUMXQ9kPnZAQkMkZZ7Hfh,rap francais
+1f1DjtYgH6yBzBSiGteBJl,rap antillais
+1f1DjtYgH6yBzBSiGteBJl,zouk riddim
 4fDx6CTJ4KWhnAg6TvwmWe,francoton
 4fDx6CTJ4KWhnAg6TvwmWe,french hip hop
 4fDx6CTJ4KWhnAg6TvwmWe,pop urbaine
 4fDx6CTJ4KWhnAg6TvwmWe,rap francais
+2EFpb61Lpi0l5ldOiqbZkK,francoton
+2EFpb61Lpi0l5ldOiqbZkK,french hip hop
+2EFpb61Lpi0l5ldOiqbZkK,pop urbaine
+2EFpb61Lpi0l5ldOiqbZkK,rap francais
 5WUlDfRSoLAfcVSX1WnrxN,australian dance
 5WUlDfRSoLAfcVSX1WnrxN,australian pop
 5WUlDfRSoLAfcVSX1WnrxN,dance pop
 5WUlDfRSoLAfcVSX1WnrxN,pop
 5WUlDfRSoLAfcVSX1WnrxN,pop dance
-2EFpb61Lpi0l5ldOiqbZkK,francoton
-2EFpb61Lpi0l5ldOiqbZkK,french hip hop
-2EFpb61Lpi0l5ldOiqbZkK,pop urbaine
-2EFpb61Lpi0l5ldOiqbZkK,rap francais
+46wEUZyujVrFSrdCnTKQmV,francoton
+46wEUZyujVrFSrdCnTKQmV,pop urbaine
 66Ok6bgC570sHkw08N20pZ,french hip hop
 66Ok6bgC570sHkw08N20pZ,pop urbaine
 66Ok6bgC570sHkw08N20pZ,rap francais
@@ -847,14 +845,9 @@ artist_id,genre
 0fA0VVWsXO9YnASrzqfmYu,hip hop
 0fA0VVWsXO9YnASrzqfmYu,ohio hip hop
 0fA0VVWsXO9YnASrzqfmYu,rap
-46wEUZyujVrFSrdCnTKQmV,francoton
-46wEUZyujVrFSrdCnTKQmV,pop urbaine
-6L34dW6SKMSDaGIfYDU19j,francoton
-6L34dW6SKMSDaGIfYDU19j,french hip hop
-6L34dW6SKMSDaGIfYDU19j,pop urbaine
-6L34dW6SKMSDaGIfYDU19j,rap francais
 3nDNDLcZuSto4k9u4AbcLB,german hip hop
 3nDNDLcZuSto4k9u4AbcLB,german pop
+12xme1fwd3iGEW7rF9b6tp,german pop
 4bL2B6hmLlMWnUEZnorEtG,dance pop
 4bL2B6hmLlMWnUEZnorEtG,edm
 4bL2B6hmLlMWnUEZnorEtG,electro house
@@ -862,17 +855,11 @@ artist_id,genre
 4bL2B6hmLlMWnUEZnorEtG,pop
 4bL2B6hmLlMWnUEZnorEtG,pop dance
 4bL2B6hmLlMWnUEZnorEtG,tropical house
-12xme1fwd3iGEW7rF9b6tp,german pop
 6h1s4i4XKIYv4ErDelLDN0,german hip hop
 39KEQQAG9JhIt71g9NEVhh,albanian hip hop
 39KEQQAG9JhIt71g9NEVhh,german hip hop
 4lDiJcOJ2GLCK6p9q5BgfK,christlicher rap
 4lDiJcOJ2GLCK6p9q5BgfK,german hip hop
-1LRpAVWq5z6VZMG3tTdZKU,german pop
-3utZ2yeQk0Z3BCOBWP7Vlu,german hip hop
-3utZ2yeQk0Z3BCOBWP7Vlu,german pop
-3utZ2yeQk0Z3BCOBWP7Vlu,pop rap
-5j21TGkrNEAJe3gG9VlS34,german hip hop
 3tvtGR8HzMHDbkLeZrFiBI,cantopop
 5jewGMrZtMNJk5OsZ61Cpo,cantopop
 2MVfNjocvNrE03cQuxpsWK,c-pop
@@ -893,33 +880,31 @@ artist_id,genre
 3oONGjPFxkb1rqTtFx8fl2,cantopop
 2zzKlxMsKTPMsZacZCPRNA,c-pop
 2zzKlxMsKTPMsZacZCPRNA,cantopop
+6f4srX54JFrLNK4aTJe2Sc,mainland chinese pop
+6f4srX54JFrLNK4aTJe2Sc,mandopop
 6jlz5QSUqbKE4vnzo2qfP1,c-pop
 6jlz5QSUqbKE4vnzo2qfP1,cantopop
 6jlz5QSUqbKE4vnzo2qfP1,classic mandopop
 6jlz5QSUqbKE4vnzo2qfP1,mandopop
-6f4srX54JFrLNK4aTJe2Sc,mainland chinese pop
-6f4srX54JFrLNK4aTJe2Sc,mandopop
 3TtgOeQcNkf9WVDA4xPBJM,mandopop
 3TtgOeQcNkf9WVDA4xPBJM,taiwan pop
-0DwdA5ZgTJcIQ2uIhc110D,cantopop
-41MozSoPIsD1dJM0CLPjZF,k-pop
-41MozSoPIsD1dJM0CLPjZF,k-pop girl group
-1VSepPOw3REo0L6LFeii0Q,cantopop
-3HqSLMAZ3g3d5poNaI7GOU,k-pop
 7t5H3uQv0Zw6cQUnSTF5BB,k-pop
 7t5H3uQv0Zw6cQUnSTF5BB,k-pop girl group
-1qW9Pi35NXnu7Q8KWyVYe6,cantopop
 64tJ2EAv1R6UaZqc4iOCyj,j-pop
 64tJ2EAv1R6UaZqc4iOCyj,japanese teen pop
-1DgBVE3lCnC7Osg9zpAt6N,c-pop
-1DgBVE3lCnC7Osg9zpAt6N,cantopop
+3HqSLMAZ3g3d5poNaI7GOU,k-pop
+41MozSoPIsD1dJM0CLPjZF,k-pop
+41MozSoPIsD1dJM0CLPjZF,k-pop girl group
+1qW9Pi35NXnu7Q8KWyVYe6,cantopop
+1VSepPOw3REo0L6LFeii0Q,cantopop
+0DwdA5ZgTJcIQ2uIhc110D,cantopop
 0u3m5Sy2zsq4Gk0aduH9s7,cantopop
 0u3m5Sy2zsq4Gk0aduH9s7,chinese indie
 0u3m5Sy2zsq4Gk0aduH9s7,hong kong indie
+1DgBVE3lCnC7Osg9zpAt6N,c-pop
+1DgBVE3lCnC7Osg9zpAt6N,cantopop
 1IDuSpntFl2Mutofvrrutc,c-pop
 1IDuSpntFl2Mutofvrrutc,cantopop
-6XtWdWAC7rNqXwbs8hGqP9,c-pop
-6XtWdWAC7rNqXwbs8hGqP9,cantopop
 0ixzjrK1wkN2zWBXt3VW3W,j-pop
 0ixzjrK1wkN2zWBXt3VW3W,japanese singer-songwriter
 0ixzjrK1wkN2zWBXt3VW3W,japanese teen pop
@@ -952,16 +937,16 @@ artist_id,genre
 5kVZa4lFUmAQlBogl1fkd6,j-pop
 2IUl3m1H1EQ7QfNbNWvgru,j-pop
 2IUl3m1H1EQ7QfNbNWvgru,japanese soul
-3z8diLlUCkN1j9N9ZdnfBJ,j-pop
 0jJmZHZHNe8n24Y33z5Nil,j-division
 0jJmZHZHNe8n24Y33z5Nil,j-pop
+3z8diLlUCkN1j9N9ZdnfBJ,j-pop
 5Vo1hnCRmCM6M4thZCInCj,anime rock
 5Vo1hnCRmCM6M4thZCInCj,j-pop
 38WbKH6oKAZskBhqDFA8Uj,j-pop
-1snhtMLeb2DYoMOcVbb8iB,anime
-1snhtMLeb2DYoMOcVbb8iB,j-pop
 0jWCX6zp4RjWrmZRxJ2uri,j-pop
 0jWCX6zp4RjWrmZRxJ2uri,j-rock
+1snhtMLeb2DYoMOcVbb8iB,anime
+1snhtMLeb2DYoMOcVbb8iB,j-pop
 6wxfx1yhyqjCPYwwxJktR2,j-pop
 6wxfx1yhyqjCPYwwxJktR2,j-rock
 2sd5k8N8cAOm6Q8OCcePw4,j-pop
@@ -970,14 +955,14 @@ artist_id,genre
 31iJDnqpS43YIG18nTFx14,japanese chill rap
 7HwzlRPa9Ad0I8rK0FPzzK,anime
 7HwzlRPa9Ad0I8rK0FPzzK,j-pop
-32QmJ5obSke8YKDbQvVPUx,j-pop
-32QmJ5obSke8YKDbQvVPUx,japanese teen pop
 4QvgGvpgzgyUOo8Yp8LDm9,anime rock
 4QvgGvpgzgyUOo8Yp8LDm9,j-pop
 4QvgGvpgzgyUOo8Yp8LDm9,j-rock
 71hQB5jxdNiHk5gzZRhicQ,anime rock
 71hQB5jxdNiHk5gzZRhicQ,j-pop
 71hQB5jxdNiHk5gzZRhicQ,japanese singer-songwriter
+32QmJ5obSke8YKDbQvVPUx,j-pop
+32QmJ5obSke8YKDbQvVPUx,japanese teen pop
 4UK2Lzi6fBfUi9rpDt6cik,j-pop
 1t17z3vfuc82cxSDMrvryJ,j-pop
 1t17z3vfuc82cxSDMrvryJ,j-rock
@@ -986,7 +971,6 @@ artist_id,genre
 1wJL6nbdvPwqPYuoqiw5aN,japanese alternative rock
 1S2S00lgLYLGHWA44qGEUs,j-acoustic
 1S2S00lgLYLGHWA44qGEUs,j-pop
-1S2S00lgLYLGHWA44qGEUs,j-rock
 1S2S00lgLYLGHWA44qGEUs,japanese singer-songwriter
 6le80R1opKnTlP4o3KvA2k,j-pop
 6le80R1opKnTlP4o3KvA2k,japanese singer-songwriter
@@ -1023,11 +1007,10 @@ artist_id,genre
 6cnl6Jz97730GUS8zEAK77,nuevo regional mexicano
 6cnl6Jz97730GUS8zEAK77,regional mexican
 6cnl6Jz97730GUS8zEAK77,sierreno
-5xSx2FM8mQnrfgM1QsHniB,latin
-5xSx2FM8mQnrfgM1QsHniB,latin pop
-5xSx2FM8mQnrfgM1QsHniB,latin viral pop
-5xSx2FM8mQnrfgM1QsHniB,mexican pop
-5xSx2FM8mQnrfgM1QsHniB,pop
+0OhiQFSqbnnmB52NWEpsO5,corrido
+0OhiQFSqbnnmB52NWEpsO5,ranchera
+0OhiQFSqbnnmB52NWEpsO5,regional mexican
+0OhiQFSqbnnmB52NWEpsO5,tecnobanda
 1W7FNibLa0O0b572tB2w7t,bedroom soul
 1W7FNibLa0O0b572tB2w7t,pop
 3gIRvgZssIb9aiirIg0nI3,alt z
@@ -1050,8 +1033,11 @@ artist_id,genre
 4Uc8Dsxct0oMqx0P6i60ea,indie pop
 4Uc8Dsxct0oMqx0P6i60ea,pop
 5fEQLwq1BWWQNR8GzhOIvi,mandopop
-1SZdTuxme3mOk0D9pUFrET,chinese viral pop
 2NJLAUSe3Ifk9MiHbddRAi,chinese viral pop
+1SZdTuxme3mOk0D9pUFrET,chinese viral pop
+4IWBUUAFIplrNtaOHcJPRM,pop
+4IWBUUAFIplrNtaOHcJPRM,talent show
+4IWBUUAFIplrNtaOHcJPRM,uk pop
 2elBjNSdBE2Y3f0j1mjrql,c-pop
 2elBjNSdBE2Y3f0j1mjrql,mandopop
 2elBjNSdBE2Y3f0j1mjrql,taiwan pop
@@ -1062,15 +1048,10 @@ artist_id,genre
 7n2wHs1TKAczGzO7Dd2rGr,post-teen pop
 7n2wHs1TKAczGzO7Dd2rGr,viral pop
 0ebNdVaOfp6N0oZ1guIxM8,k-pop
-7IEhlwWQA7pCkEvzwwHehE,k-rap
 2hRQKC0gqlZGPrmUKbcchR,k-pop
 2hRQKC0gqlZGPrmUKbcchR,k-pop boy group
+7IEhlwWQA7pCkEvzwwHehE,k-rap
 6MoXcK2GyGg7FIyxPU5yW6,k-pop
-6N7b9mUVwn885jI7RRg8no,k-rap
-7u2Nz7Bj2vbCps9AH5q6do,korean trap
-32wJE7JooXm59HxYhy7caU,k-rap
-1UIxKzYZnlJeF9siZ6IE1f,k-rap
-0Ch0t9gI47Lkal71uQnmV3,k-rap
 26VFTg2z8YR0cCuwLzESi2,dance pop
 26VFTg2z8YR0cCuwLzESi2,electropop
 26VFTg2z8YR0cCuwLzESi2,etherpop
@@ -1078,6 +1059,13 @@ artist_id,genre
 26VFTg2z8YR0cCuwLzESi2,pop
 26VFTg2z8YR0cCuwLzESi2,pop dance
 26VFTg2z8YR0cCuwLzESi2,post-teen pop
+6N7b9mUVwn885jI7RRg8no,k-rap
+7u2Nz7Bj2vbCps9AH5q6do,korean trap
+32wJE7JooXm59HxYhy7caU,k-rap
+1UIxKzYZnlJeF9siZ6IE1f,k-rap
+0Ch0t9gI47Lkal71uQnmV3,k-rap
+5r1tUTxVSgvBHnoDuDODPH,k-pop
+5r1tUTxVSgvBHnoDuDODPH,k-pop girl group
 2TcrjcSngRPpgZxmIlPdym,amapiano
 1nVEvn7RMNxj27rn0WE13E,afro soul
 1nVEvn7RMNxj27rn0WE13E,south african pop
@@ -1086,9 +1074,9 @@ artist_id,genre
 6ucYQLJMMVyN1nO4GebaV2,afro soul
 6ucYQLJMMVyN1nO4GebaV2,amapiano
 6ucYQLJMMVyN1nO4GebaV2,south african pop
+414pDI8Y502owCbg7U6Skf,amapiano
 3ciriYzsPraVHAuNLA1ylh,afro soul
 3ciriYzsPraVHAuNLA1ylh,amapiano
-414pDI8Y502owCbg7U6Skf,amapiano
 1bNjWBFWsAAzZSR59lRdpR,afro house
 1bNjWBFWsAAzZSR59lRdpR,afro soul
 1bNjWBFWsAAzZSR59lRdpR,amapiano
@@ -1107,25 +1095,16 @@ artist_id,genre
 1lDWyPzSZOqP5jfZNm5lLI,afro soul
 1lDWyPzSZOqP5jfZNm5lLI,amapiano
 1lDWyPzSZOqP5jfZNm5lLI,south african pop
-71lldVkx3POgVXXTe5Pqoa,south african hip hop
-3Oa0mJQWQrUOqJ8fcLuu7l,amapiano
 6c7bGIcrxaMdYSn6htbHj0,afro soul
 6c7bGIcrxaMdYSn6htbHj0,south african house
 6c7bGIcrxaMdYSn6htbHj0,south african pop
 6c7bGIcrxaMdYSn6htbHj0,south african pop dance
-0N3AcLTAS3vcx93PxN2Agb,afro soul
-0N3AcLTAS3vcx93PxN2Agb,south african alternative
-0N3AcLTAS3vcx93PxN2Agb,south african pop
-1Ck3UYsoNkZ63PLY8yZR33,amapiano
-3Z2T6mI5rrWuijYZkclFEN,afro soul
-3Z2T6mI5rrWuijYZkclFEN,botswana pop
-3Z2T6mI5rrWuijYZkclFEN,indie r&b
-3Z2T6mI5rrWuijYZkclFEN,south african alternative
-2J1TbsWFTYT0LHNSX897xS,amapiano
-7MKSufJrPmpqpg2mVWJET1,amapiano
+71lldVkx3POgVXXTe5Pqoa,south african hip hop
+3Oa0mJQWQrUOqJ8fcLuu7l,amapiano
 0TMvoNR0AIJV138mHY6jdE,polish pop
 5XGkLMcwitYFdwroktQs7o,polish alternative
 5XGkLMcwitYFdwroktQs7o,polish pop
+4rneSQYWhgIT9pMX2NwpeM,polish pop
 0iBTVnJ1Sff92zCDujfvyJ,polish hip hop
 0iBTVnJ1Sff92zCDujfvyJ,polish pop
 7uWyXPJ04ihdQdYGGw3xVV,polish hip hop
@@ -1137,64 +1116,71 @@ artist_id,genre
 154o9Wi0JpSDbYQPMtmpd5,polish hip hop
 154o9Wi0JpSDbYQPMtmpd5,polish trap
 56VhOZOF6hwqrbNYwkmcsH,polish hip hop
+56VhOZOF6hwqrbNYwkmcsH,polish pop
 56VhOZOF6hwqrbNYwkmcsH,polish trap
 6cAstWrYVb1BxHyRQJJskF,polish hip hop
 6cAstWrYVb1BxHyRQJJskF,polish trap
-7v49oVVUhvIQG5EK0jkcF7,polish hip hop
-3OFZwEYEAKMEmUheZ8TKso,polish hip hop
-0QR764k0D36npmTMWx5bft,polish hip hop
-0QR764k0D36npmTMWx5bft,polish trap
 1fZAAHNWdSM5gqbi9o5iEA,polish hip hop
 1fZAAHNWdSM5gqbi9o5iEA,polish trap
 4nPxrGG7k7aEKmNLsfX4cd,polish hip hop
 4nPxrGG7k7aEKmNLsfX4cd,polish trap
+3OFZwEYEAKMEmUheZ8TKso,polish hip hop
+0QR764k0D36npmTMWx5bft,polish hip hop
+0QR764k0D36npmTMWx5bft,polish trap
 2IHoZ3RrDJIikMRsYgHjhy,polish hip hop
 2IHoZ3RrDJIikMRsYgHjhy,polish trap
 0x4xJCGDyTlKr47RF2WXzu,polish hip hop
 0x4xJCGDyTlKr47RF2WXzu,polish trap
-4CrDEHL7ysNabeYvL3xjUX,big room
 44FnIf8PhG6EQRIoENsXu3,polish trap
-1fxbULcd6ryMNc1usHoP0R,polish hip hop
-6NUBt2nj5uT4iLLTIMRxra,polish electronica
-0tdKRrbItnLj40yUFi23jx,polish alternative
-0tdKRrbItnLj40yUFi23jx,polish indie
-0tdKRrbItnLj40yUFi23jx,polish pop
+7v49oVVUhvIQG5EK0jkcF7,polish hip hop
 6QfFTZJHFSe9Xyes6DkAli,polish hip hop
 6QfFTZJHFSe9Xyes6DkAli,polish trap
 0WDJa0qnagyOnMaiD26wht,polish hip hop
 0WDJa0qnagyOnMaiD26wht,polish trap
 79b4a4Bg30Y0RlO5de5jni,polish hip hop
 4nRJJWVfbPAULHZl7VYVE8,polish trap
-1Kjs5u8GQf6zCFdTj6SI9E,polish hip hop
-1Kjs5u8GQf6zCFdTj6SI9E,polish trap
+1fxbULcd6ryMNc1usHoP0R,polish hip hop
+6NUBt2nj5uT4iLLTIMRxra,polish electronica
+0tdKRrbItnLj40yUFi23jx,polish alternative
+0tdKRrbItnLj40yUFi23jx,polish indie
+0tdKRrbItnLj40yUFi23jx,polish pop
+4CrDEHL7ysNabeYvL3xjUX,big room
 0LX2VNf5w4iOHW1yyIqb74,polish hip hop
 0LX2VNf5w4iOHW1yyIqb74,polish trap
 7afPAbg5jb45KFUSnHIMFG,polish electronica
 7afPAbg5jb45KFUSnHIMFG,polish trap
-3B6UKFIsDwnJUKlJp7qQyU,polish alternative rap
-3B6UKFIsDwnJUKlJp7qQyU,polish hip hop
-0awWNjR5qmSZsQVFAo2NsR,polish hip hop
+1Kjs5u8GQf6zCFdTj6SI9E,polish hip hop
+1Kjs5u8GQf6zCFdTj6SI9E,polish trap
 3gm9b6AeMf2eGQTLashkDt,polish hip hop
 3gm9b6AeMf2eGQTLashkDt,polish trap
 4Q3xLVaD2uBZGVxmCYuSkt,polish hip hop
 4Q3xLVaD2uBZGVxmCYuSkt,polish trap
-1silJqJQfrrZNFvWWjAyhh,polish alternative rap
-1silJqJQfrrZNFvWWjAyhh,polish hip hop
-1silJqJQfrrZNFvWWjAyhh,polish pop
-7Myky2n7ro7FEMaf0HyHtE,polish electronica
+3B6UKFIsDwnJUKlJp7qQyU,polish alternative rap
+3B6UKFIsDwnJUKlJp7qQyU,polish hip hop
+0awWNjR5qmSZsQVFAo2NsR,polish hip hop
 7CJgLPEqiIRuneZSolpawQ,polish hip hop
 7CJgLPEqiIRuneZSolpawQ,polish trap
 5AmZdY72O0NVE0XxWdMfxv,polish hip hop
 5AmZdY72O0NVE0XxWdMfxv,polish trap
+1silJqJQfrrZNFvWWjAyhh,polish alternative rap
+1silJqJQfrrZNFvWWjAyhh,polish hip hop
+1silJqJQfrrZNFvWWjAyhh,polish pop
+7Myky2n7ro7FEMaf0HyHtE,polish electronica
 0MIG6gMcQTSvFbKvUwK0id,polish hip hop
 0MIG6gMcQTSvFbKvUwK0id,polish trap
+3Mnrb43jb3hiASpyCvaZpy,polish hip hop
+3Mnrb43jb3hiASpyCvaZpy,polish trap
+16TsNPlesuA1R9kPLS6nta,polish hip hop
+16TsNPlesuA1R9kPLS6nta,polish trap
+3U5Oag04Yl2WnvPULOlsMD,polish hip hop
+3U5Oag04Yl2WnvPULOlsMD,polish trap
 4a6rcjvQs6YOwK5sVlybKV,malay rap
 4a6rcjvQs6YOwK5sVlybKV,malaysian hip hop
 4a6rcjvQs6YOwK5sVlybKV,malaysian pop
 63PZAg9EDmsVpftrqz1uih,malaysian pop
-48FNCGA8dKjcsfTO3TMcAV,malaysian pop
 0J1gUosYaFbrSG6FkbE4c7,malaysian pop
 2UHBgxDvOBaIY7hQ8CEAmW,indonesian pop
+48FNCGA8dKjcsfTO3TMcAV,malaysian pop
 5PCDJjJ5dx6Py83CvfvRIO,malay rap
 5PCDJjJ5dx6Py83CvfvRIO,malaysian pop
 5Plk4JdCzMxhAHSRTEsxJp,malaysian pop
@@ -1208,13 +1194,6 @@ artist_id,genre
 2jnIB6XdLvnJUeNTy5A0J2,pop
 2jnIB6XdLvnJUeNTy5A0J2,post-teen pop
 2jnIB6XdLvnJUeNTy5A0J2,teen pop
-77YvCBWe0tTLygpgSJsdOH,tamil pop
-7rVV9d6vc4FLT752uRuk71,desi hip hop
-7rVV9d6vc4FLT752uRuk71,tamil pop
-5FVBduYaeVBb6JIghza7v6,deep indian pop
-5FVBduYaeVBb6JIghza7v6,desi hip hop
-5FVBduYaeVBb6JIghza7v6,filmi
-5FVBduYaeVBb6JIghza7v6,tamil pop
 2LRoIwlKmHjgvigdNGBHNo,colombian pop
 2LRoIwlKmHjgvigdNGBHNo,latin
 2LRoIwlKmHjgvigdNGBHNo,pop reggaeton
@@ -1252,8 +1231,6 @@ artist_id,genre
 0BecZI4vqLoN178y3f16XJ,danish hip hop
 0BecZI4vqLoN178y3f16XJ,danish pop
 1YwMnnHvnG64fJxYSVwmN6,danish pop
-7Ap8xCd7d0xon5XnkLvn4i,danish hip hop
-7Ap8xCd7d0xon5XnkLvn4i,danish pop
 7EJcUkbBsR4kN822bEa0ZS,danish hip hop
 7EJcUkbBsR4kN822bEa0ZS,danish pop
 3tNPDodRNuLdezJnTsYOqy,swedish drill
@@ -1261,10 +1238,12 @@ artist_id,genre
 3tNPDodRNuLdezJnTsYOqy,swedish hip hop
 3tNPDodRNuLdezJnTsYOqy,swedish trap
 3tNPDodRNuLdezJnTsYOqy,swedish trap pop
-7EuzcvdfScUqksgKfyN7J0,danish pop
-7EuzcvdfScUqksgKfyN7J0,eurovision
+7Ap8xCd7d0xon5XnkLvn4i,danish hip hop
+7Ap8xCd7d0xon5XnkLvn4i,danish pop
 5SwsSD9zyWaWeVyK9qIW9l,danish hip hop
 5SwsSD9zyWaWeVyK9qIW9l,danish pop
+7EuzcvdfScUqksgKfyN7J0,danish pop
+7EuzcvdfScUqksgKfyN7J0,eurovision
 7wy9Plp8SD5l3LDuJubTcv,danish hip hop
 7wy9Plp8SD5l3LDuJubTcv,danish pop
 0i7DYzkG8u0ScquFnDUuvT,danish hip hop
@@ -1273,23 +1252,15 @@ artist_id,genre
 4nXezpatStChCEWVvYLjd5,danish pop
 6l2TcYHKMr6XQn5hxfD48E,danish hip hop
 36mHwYa65L0WZbAXY2iSGw,danish electronic
-7wrulS1dfanckBnoxxEuS6,danish pop
 6idjJt47PjFydVRrAlNw4C,danish pop
 1IWMpdsWQeTckTQSGVNj8N,danish hip hop
 1IWMpdsWQeTckTQSGVNj8N,danish pop
+7wrulS1dfanckBnoxxEuS6,danish pop
 25u4wHJWxCA9vO0CzxAbK7,danish pop
 25u4wHJWxCA9vO0CzxAbK7,pop
 25u4wHJWxCA9vO0CzxAbK7,scandipop
 3RYYha3CC7js2PHbcBHewt,danish hip hop
 3RYYha3CC7js2PHbcBHewt,danish pop
-67pwWZtcg7U2P2keoeC9jW,danish pop
-5KKpBU5eC2tJDzf0wmlRp2,dance pop
-5KKpBU5eC2tJDzf0wmlRp2,pop
-5KKpBU5eC2tJDzf0wmlRp2,pop dance
-5KKpBU5eC2tJDzf0wmlRp2,post-teen pop
-5KKpBU5eC2tJDzf0wmlRp2,tropical house
-5KKpBU5eC2tJDzf0wmlRp2,uk contemporary r&b
-5KKpBU5eC2tJDzf0wmlRp2,uk pop
 1zNqDE7qDGCsyzJwohVaoX,dance pop
 1zNqDE7qDGCsyzJwohVaoX,pop
 1zNqDE7qDGCsyzJwohVaoX,pop dance
@@ -1298,11 +1269,26 @@ artist_id,genre
 1zNqDE7qDGCsyzJwohVaoX,uk pop
 1nzgtKYFckznkcVMR3Gg4z,uk hip hop
 5fyDppLDl1juIu1BcUT5zh,uk dance
+5KKpBU5eC2tJDzf0wmlRp2,dance pop
+5KKpBU5eC2tJDzf0wmlRp2,pop
+5KKpBU5eC2tJDzf0wmlRp2,pop dance
+5KKpBU5eC2tJDzf0wmlRp2,post-teen pop
+5KKpBU5eC2tJDzf0wmlRp2,tropical house
+5KKpBU5eC2tJDzf0wmlRp2,uk contemporary r&b
+5KKpBU5eC2tJDzf0wmlRp2,uk pop
 6Ad91Jof8Niiw0lGLLi3NW,british indie rock
 6Ad91Jof8Niiw0lGLLi3NW,modern rock
 6Ad91Jof8Niiw0lGLLi3NW,pop
 6Ad91Jof8Niiw0lGLLi3NW,rock
 2PJEagPIxaBugeMjIyKVXF,manchester hip hop
+5SHxzwjek1Pipl1Yk11UHv,modern alternative rock
+5SHxzwjek1Pipl1Yk11UHv,modern rock
+5SHxzwjek1Pipl1Yk11UHv,uk pop
+0C0XlULifJtAgn6ZNCW2eu,modern rock
+0C0XlULifJtAgn6ZNCW2eu,permanent wave
+0C0XlULifJtAgn6ZNCW2eu,rock
+4IJczjB0fJ04gs4uvP0Fli,dance pop
+4IJczjB0fJ04gs4uvP0Fli,pop rap
 3e7awlrlDSwF3iM0WBjGMp,dance pop
 3e7awlrlDSwF3iM0WBjGMp,girl group
 3e7awlrlDSwF3iM0WBjGMp,pop
@@ -1310,18 +1296,18 @@ artist_id,genre
 3e7awlrlDSwF3iM0WBjGMp,post-teen pop
 3e7awlrlDSwF3iM0WBjGMp,talent show
 3e7awlrlDSwF3iM0WBjGMp,uk pop
-5SHxzwjek1Pipl1Yk11UHv,modern alternative rock
-5SHxzwjek1Pipl1Yk11UHv,modern rock
-5SHxzwjek1Pipl1Yk11UHv,uk pop
-0C0XlULifJtAgn6ZNCW2eu,modern rock
-0C0XlULifJtAgn6ZNCW2eu,permanent wave
-0C0XlULifJtAgn6ZNCW2eu,rock
 51DevdOxIJin6DB1FXJpD1,turkish hip hop
 51DevdOxIJin6DB1FXJpD1,turkish trap
 2aZlYOswKNlrwqpuTsckKd,turkish alt pop
 3tJELJoPZ4VTKmL0vppqLj,turkish hip hop
 3tJELJoPZ4VTKmL0vppqLj,turkish trap
 3tJELJoPZ4VTKmL0vppqLj,turkish trap pop
+1lMEWvvUlwzQ5OKB4w1HTn,turkish alt pop
+1lMEWvvUlwzQ5OKB4w1HTn,turkish trap pop
+7k6KVFItaU7pcBvL6poIi9,turkish instrumental
+50z4meqYMvVCXEv2jDneDN,turkish trap pop
+6h5P3J0j1x2lhiDk9w4deZ,turkish hip hop
+6h5P3J0j1x2lhiDk9w4deZ,turkish trap pop
 15AZJFNrXtIN4Nk8BIOnS2,turkish hip hop
 15AZJFNrXtIN4Nk8BIOnS2,turkish trap
 15AZJFNrXtIN4Nk8BIOnS2,turkish trap pop
@@ -1330,12 +1316,9 @@ artist_id,genre
 2y1VzMKAa5nmfXKtJL9jnj,basshall
 2y1VzMKAa5nmfXKtJL9jnj,turkish trap
 5wyWp867LWGjFmYZXVSFnZ,german hip hop
-50z4meqYMvVCXEv2jDneDN,turkish trap pop
-6h5P3J0j1x2lhiDk9w4deZ,turkish hip hop
-6h5P3J0j1x2lhiDk9w4deZ,turkish trap pop
-1lMEWvvUlwzQ5OKB4w1HTn,turkish alt pop
-1lMEWvvUlwzQ5OKB4w1HTn,turkish trap pop
-7k6KVFItaU7pcBvL6poIi9,turkish instrumental
+4Bdqzh78prwuqwInMb555P,oyun havasi
+4Bdqzh78prwuqwInMb555P,turkish pop
+4Bdqzh78prwuqwInMb555P,turkish rock
 1Fg19vpUJpAAPFjnKaVYVW,turkish hip hop
 1Fg19vpUJpAAPFjnKaVYVW,turkish trap pop
 1nFJWl30l3PAHei86OxN0i,turkish pop
@@ -1344,114 +1327,113 @@ artist_id,genre
 6q1sTU51oryTTcWTPTd0VC,turkish trap
 6q1sTU51oryTTcWTPTd0VC,turkish trap pop
 1zofEGCCvRwAdhetK573gb,turkish trap pop
-4Bdqzh78prwuqwInMb555P,oyun havasi
-4Bdqzh78prwuqwInMb555P,turkish pop
-4Bdqzh78prwuqwInMb555P,turkish rock
 4hjJDrv2KkIEW1AslTEtv3,turkish alt pop
-6LnJKrtFnTEGdbWQ2riWCL,turkish hip hop
-6LnJKrtFnTEGdbWQ2riWCL,turkish trap
 23Q5T7JtqekFJMbC0XKxnh,turkish hip hop
 23Q5T7JtqekFJMbC0XKxnh,turkish trap pop
-4HSiNCPhdU2snKaVJytlUM,turkish hip hop
-4HSiNCPhdU2snKaVJytlUM,turkish trap
-4HSiNCPhdU2snKaVJytlUM,turkish trap pop
-7yiLonxrJVgZKSbjo0gh6V,arabesk
 1qZ684TB9E1BjH58btdtYd,turkish pop
 1qZ684TB9E1BjH58btdtYd,turkish trap pop
 5JJc8is4VzgOz8ZanDj18J,turkish edm
 4xklx5DAtVru5uf3vSXTgf,turkish edm
 0L3wrFI3QcbXAvFL7IaPQX,turkish hip hop
 0L3wrFI3QcbXAvFL7IaPQX,turkish trap pop
+7BJjzi0JHyDHAsmVe21dGa,turkish pop
+6LnJKrtFnTEGdbWQ2riWCL,turkish hip hop
+6LnJKrtFnTEGdbWQ2riWCL,turkish trap
+1dpqJqIuNqideTvmxBsSku,karadeniz halk muzigi
+1dpqJqIuNqideTvmxBsSku,turkish pop
+4HSiNCPhdU2snKaVJytlUM,turkish hip hop
+4HSiNCPhdU2snKaVJytlUM,turkish trap
+4HSiNCPhdU2snKaVJytlUM,turkish trap pop
+7yiLonxrJVgZKSbjo0gh6V,arabesk
+0w92tV1EQp7sxly7UjGR4P,turkish alt pop
+0w92tV1EQp7sxly7UjGR4P,turkish alternative rock
+2boacFGRX1WIo7NFS8B0F2,turkish hip hop
+0wCKNMsqYasJBFVagjay49,turkish pop
+4Vr0nv4nM4aqWfj76zDTTp,turkish alternative rock
 2r8iLFeSTuOiZualHmSXxS,turkish hip hop
 2r8iLFeSTuOiZualHmSXxS,turkish trap
 2r8iLFeSTuOiZualHmSXxS,turkish trap pop
-7BJjzi0JHyDHAsmVe21dGa,turkish pop
-1dpqJqIuNqideTvmxBsSku,karadeniz halk muzigi
-1dpqJqIuNqideTvmxBsSku,turkish pop
-2boacFGRX1WIo7NFS8B0F2,turkish hip hop
-0wCKNMsqYasJBFVagjay49,turkish pop
-0w92tV1EQp7sxly7UjGR4P,turkish alt pop
-0w92tV1EQp7sxly7UjGR4P,turkish alternative rock
-4Vr0nv4nM4aqWfj76zDTTp,turkish alternative rock
 2AWUCT9xtcvkjpFq1ZgpPj,turkish pop
 2AWUCT9xtcvkjpFq1ZgpPj,turkish rock
 2AWUCT9xtcvkjpFq1ZgpPj,turkish singer-songwriter
-6dOAGo4z0syiCjbnlh4VSO,turkish hip hop
-6dOAGo4z0syiCjbnlh4VSO,turkish trap pop
 03cvjFEHz8eGwYHq1L0Pp2,turkish alt pop
-0FUsrstJwmg4WVHQMTYuUA,turkish hip hop
-0FUsrstJwmg4WVHQMTYuUA,turkish trap
-0FUsrstJwmg4WVHQMTYuUA,turkish trap pop
-3cNwyF5SboOs9icz2XyotE,turkish pop
-3cNwyF5SboOs9icz2XyotE,turkish trap pop
-35ngoeYRyOveM0rPvahkot,karadeniz halk muzigi
-3BVPc9s4JXzM6O1InlLxED,turkish trap pop
+4fR3W8XFXsqHB8f8IqEr1y,turkish hip hop
+5IAxUWLiTMsvc1oWPrczNj,turkish alt pop
+5G3OUmDl3R4rEn9zSWZTpw,turkish hip hop
+5G3OUmDl3R4rEn9zSWZTpw,turkish trap pop
+0U8sdaBYsYld98xOIX1nYB,turkish hip hop
+0U8sdaBYsYld98xOIX1nYB,turkish trap pop
 4XP7cGw4t8BqZ8Du5q3bHg,turkish alt pop
 4XP7cGw4t8BqZ8Du5q3bHg,turkish trap pop
 7gobcoscOfsY0nOeqqFzvU,turkish alternative rock
+3cNwyF5SboOs9icz2XyotE,turkish pop
+3cNwyF5SboOs9icz2XyotE,turkish trap pop
+35ngoeYRyOveM0rPvahkot,karadeniz halk muzigi
+6dOAGo4z0syiCjbnlh4VSO,turkish hip hop
+6dOAGo4z0syiCjbnlh4VSO,turkish trap pop
+0FUsrstJwmg4WVHQMTYuUA,turkish hip hop
+0FUsrstJwmg4WVHQMTYuUA,turkish trap
+0FUsrstJwmg4WVHQMTYuUA,turkish trap pop
 1eQzZsJAtBVhN9WP62oXM2,turkish hip hop
 1eQzZsJAtBVhN9WP62oXM2,turkish trap
 1eQzZsJAtBVhN9WP62oXM2,turkish trap pop
-5gFPi3KWXEwA9bLEO47Ow0,turkish pop
-46zuW8tHxwahYn7VNMgYTa,turkish pop
-5G3OUmDl3R4rEn9zSWZTpw,turkish hip hop
-5G3OUmDl3R4rEn9zSWZTpw,turkish trap pop
 0T49oz78JYl4FkVJPGlJiD,hip hop tuga
+7crp1tZcefnjT5RuL6WZQ0,hip hop tuga
+1pPbDeOdNUcLq32HTTLbZm,trap tuga
+2swvbEAfN70ZFcQB4Y7MaS,hip hop tuga
+2swvbEAfN70ZFcQB4Y7MaS,portuguese pop
+2swvbEAfN70ZFcQB4Y7MaS,reggae tuga
+6XjHGcba7ZbaZ6nYtwhaCj,hip hop tuga
 0kjGPGtoyKwKVOZAKmv5K6,funk carioca
 0kjGPGtoyKwKVOZAKmv5K6,pop nacional
 3qvcCP2J0fWi0m0uQDUf6r,sertanejo
 3qvcCP2J0fWi0m0uQDUf6r,sertanejo pop
 3qvcCP2J0fWi0m0uQDUf6r,sertanejo universitario
-7crp1tZcefnjT5RuL6WZQ0,hip hop tuga
-1pPbDeOdNUcLq32HTTLbZm,trap tuga
+7BcPoZhXI08icbiq1mpxFx,portuguese pop
+0Dx6HmR7Rhi8G1osUOxAew,hip hop tuga
+0Dx6HmR7Rhi8G1osUOxAew,trap tuga
 6PIIKavZx20FlVKyIvb4Um,kizomba
 6PIIKavZx20FlVKyIvb4Um,musica santomense
 6PIIKavZx20FlVKyIvb4Um,portuguese pop
-7BcPoZhXI08icbiq1mpxFx,portuguese pop
-2swvbEAfN70ZFcQB4Y7MaS,hip hop tuga
-2swvbEAfN70ZFcQB4Y7MaS,portuguese pop
-2swvbEAfN70ZFcQB4Y7MaS,reggae tuga
-6XjHGcba7ZbaZ6nYtwhaCj,hip hop tuga
-0Dx6HmR7Rhi8G1osUOxAew,hip hop tuga
-0Dx6HmR7Rhi8G1osUOxAew,trap tuga
-39HJXjH5hKcCzaU0g6mv8G,hip hop tuga
 5jfz7uWPwf03hdEewW8AI8,hip hop tuga
 5jfz7uWPwf03hdEewW8AI8,trap tuga
+39HJXjH5hKcCzaU0g6mv8G,hip hop tuga
 6QHREBOQktWsYBfrxW93rk,hip hop tuga
 6QHREBOQktWsYBfrxW93rk,trap tuga
 0DxsiYPUEWLY4HjaUDM8Lk,hip hop tuga
 0DxsiYPUEWLY4HjaUDM8Lk,rap criolo
 2DEfqyWjAMIfKYMXb1V8L1,hip hop tuga
 2DEfqyWjAMIfKYMXb1V8L1,trap tuga
+1qMTgrvxRRHO3rflIONsCP,hip hop tuga
+7kR1Yw4RqYhhDD3a8QRyG6,hip hop tuga
+7kR1Yw4RqYhhDD3a8QRyG6,rap criolo
 4cG43cUBRJWWDsRh4SW48i,czech hip hop
 4cG43cUBRJWWDsRh4SW48i,czsk hip hop
+721o1Z0J6jQupyzLt9RnEk,czech hip hop
+721o1Z0J6jQupyzLt9RnEk,czsk hip hop
 6gvVFtkTV4OCyQSCzGgU1h,czsk hip hop
 1JdsdDwTcng1Iw8IYEw4Ko,czech hip hop
 1JdsdDwTcng1Iw8IYEw4Ko,czsk hip hop
-721o1Z0J6jQupyzLt9RnEk,czech hip hop
-721o1Z0J6jQupyzLt9RnEk,czsk hip hop
+5lEkQtWa3UKlI1hj7sktcd,czech hip hop
+5lEkQtWa3UKlI1hj7sktcd,czsk hip hop
+2AHugDX8XYbm2SNxbvptQW,czech hip hop
+2AHugDX8XYbm2SNxbvptQW,czsk hip hop
 5m2pDQbSRuWbxRR1FUcHle,czech pop
 1bpca6RQE5kp92pIwPMBE8,czech pop
 1bpca6RQE5kp92pIwPMBE8,czsk hip hop
 1bpca6RQE5kp92pIwPMBE8,slovak pop
 0ql0Aw24KJaMeOVlwadzFE,czech pop
 2A3rmRL2kja5NoroAGdZPb,czsk hip hop
-5lEkQtWa3UKlI1hj7sktcd,czech hip hop
-5lEkQtWa3UKlI1hj7sktcd,czsk hip hop
-2AHugDX8XYbm2SNxbvptQW,czech hip hop
-2AHugDX8XYbm2SNxbvptQW,czsk hip hop
 145RezaSLWGxp3SLnAcHPr,czsk hip hop
-0ZDbrXYXNaO94VjgXjdFh7,czech folk
-0ZDbrXYXNaO94VjgXjdFh7,czech punk
-0ZDbrXYXNaO94VjgXjdFh7,czech rock
 28oxY7ZfDt1BJFf8FVfpEh,czech hip hop
 28oxY7ZfDt1BJFf8FVfpEh,czsk hip hop
 6h21bjxQyGzWnFuHSgUuKg,czech hip hop
 6h21bjxQyGzWnFuHSgUuKg,czsk hip hop
 1VYGcdpoaFPzLGZIdST4u0,czech hip hop
 1VYGcdpoaFPzLGZIdST4u0,czsk hip hop
-5gRumjUBK1fHfuOlQxspJ9,czech metal
-5gRumjUBK1fHfuOlQxspJ9,czech rock
+0ZDbrXYXNaO94VjgXjdFh7,czech folk
+0ZDbrXYXNaO94VjgXjdFh7,czech punk
+0ZDbrXYXNaO94VjgXjdFh7,czech rock
 2L3W8TmknCpxsOCiZQixyl,czsk hip hop
 2L3W8TmknCpxsOCiZQixyl,slovak pop
 7gQ6tkspAoOOoDaCuVcSwH,czsk hip hop
@@ -1485,6 +1467,7 @@ artist_id,genre
 1tfhFc2Y8iplDKCteuXjCY,dembow
 1tfhFc2Y8iplDKCteuXjCY,dominican pop
 4xe6s55EDjpRpyZsrFoiWh,dominican pop
+4TxFZEk9YEPGUBrXPNwSpb,dembow
 1GKIlPFdcewHtpDVCQ8zmJ,reggaeton flow
 1GKIlPFdcewHtpDVCQ8zmJ,trap latino
 3Wb38LDP3N4tkobValgE9D,reggaeton
@@ -1497,76 +1480,79 @@ artist_id,genre
 11YLRSsZA3YVuQQtHXKTlz,reggaeton
 11YLRSsZA3YVuQQtHXKTlz,reggaeton flow
 11YLRSsZA3YVuQQtHXKTlz,trap latino
+7j6Zzcpz7gTNPh69USgO8C,estonian hip hop
+7j6Zzcpz7gTNPh69USgO8C,estonian pop
+7j6Zzcpz7gTNPh69USgO8C,eurovision
 2cNMMulo6S2a0tHrwX2s6i,estonian pop
 79Pc4RR5E625J7dK543jDw,finnish dance pop
 79Pc4RR5E625J7dK543jDw,finnish hip hop
 79Pc4RR5E625J7dK543jDw,finnish pop
-7j6Zzcpz7gTNPh69USgO8C,estonian hip hop
-7j6Zzcpz7gTNPh69USgO8C,estonian pop
-7j6Zzcpz7gTNPh69USgO8C,eurovision
+79Pc4RR5E625J7dK543jDw,iskelma
 3gDHpjemovd3LuV3tHgjOq,estonian pop
 3gDHpjemovd3LuV3tHgjOq,estonian rock
 2rdUWyphqOltYR6zPaMPrU,estonian pop
 4PLGCdwxxGsxNXX7G7Spug,estonian pop
+6acByqWJeuaM0TX5VoY6an,estonian hip hop
+6acByqWJeuaM0TX5VoY6an,estonian pop
 2ZbuL9QHBvRoB61NSaI35E,eurovision
 3BtEY5R06YAu1KVF2rvNjg,estonian hip hop
 3BtEY5R06YAu1KVF2rvNjg,estonian pop
-6acByqWJeuaM0TX5VoY6an,estonian hip hop
-6acByqWJeuaM0TX5VoY6an,estonian pop
 6TIYQ3jFPwQSRmorSezPxX,ohio hip hop
 6TIYQ3jFPwQSRmorSezPxX,pop rap
 7yntSJ6uojO3z6GFUVwhAW,viral rap
+0e86yPdC41PGRkLp2Q1Bph,indie pop
+0e86yPdC41PGRkLp2Q1Bph,vancouver indie
+55jryyk7RhvMbrvoF0ndBh,russian hip hop
+0XNKQFs2Ewb3y0VsFUFc5l,russian hip hop
+0XNKQFs2Ewb3y0VsFUFc5l,russian trap
+4mWdGXvLBhz5i2Qe5swRXb,russian hip hop
+4mWdGXvLBhz5i2Qe5swRXb,russian trap
 5rr7mN0kRk6dsm1DVwRBFx,estonian pop
 4vnAcwsYeJD9QcQsowEuKN,estonian hip hop
 4vnAcwsYeJD9QcQsowEuKN,estonian pop
-4IJczjB0fJ04gs4uvP0Fli,dance pop
-4IJczjB0fJ04gs4uvP0Fli,pop
-4IJczjB0fJ04gs4uvP0Fli,pop rap
-5nZADoZFWVB90dHpk5zvXy,estonian hip hop
-5nZADoZFWVB90dHpk5zvXy,estonian pop
-6kvEy25jX5e1RtdFn1Eo3X,estonian pop
-55jryyk7RhvMbrvoF0ndBh,russian hip hop
-0e86yPdC41PGRkLp2Q1Bph,indie pop
-0e86yPdC41PGRkLp2Q1Bph,vancouver indie
+6wN4QyhoM6fN49kEB25rnl,greek hip hop
+6wN4QyhoM6fN49kEB25rnl,greek trap
 0WxSlQlue0fq99fXfGBmxA,greek pop
 0WxSlQlue0fq99fXfGBmxA,greek trap
 1UdbiTrv73Dp7F0s3OHmn2,greek hip hop
 1UdbiTrv73Dp7F0s3OHmn2,greek trap
 0vUcZVCNG7i5OV0zb8Icfw,greek hip hop
 0vUcZVCNG7i5OV0zb8Icfw,greek trap
-5VzicjuhIv0IwMz15hEORa,greek trap
 4YiKEuOS5GwMujJMkIPGFN,greek drill
 7bg4UOzqHiULOABzTycGyX,greek drill
-6YYOTK6Qyv6PuFipPxCCoe,greek drill
-5q2IdmHx3SBYq1l5IixqTZ,greek trap
-7siPnM6FjNP8KnXO5YDwAH,greek hip hop
-7siPnM6FjNP8KnXO5YDwAH,greek pop
-7siPnM6FjNP8KnXO5YDwAH,greek trap
+5VzicjuhIv0IwMz15hEORa,greek trap
 3KcZf8BFeFBtnGyOZmUggd,greek hip hop
 3KcZf8BFeFBtnGyOZmUggd,greek pop
 3KcZf8BFeFBtnGyOZmUggd,greek trap
+6YYOTK6Qyv6PuFipPxCCoe,greek drill
 0JDrljGBQpzIKFIcZ4R1H4,greek drill
 0JDrljGBQpzIKFIcZ4R1H4,greek hip hop
 6SWOdiks4Ac3lMM8NCqDm0,greek hip hop
 6SWOdiks4Ac3lMM8NCqDm0,greek trap
 0fxvzvlu3VQV3wDIhAxBmn,greek pop
 0fxvzvlu3VQV3wDIhAxBmn,greek trap
+5q2IdmHx3SBYq1l5IixqTZ,greek trap
+7siPnM6FjNP8KnXO5YDwAH,greek hip hop
+7siPnM6FjNP8KnXO5YDwAH,greek pop
+7siPnM6FjNP8KnXO5YDwAH,greek trap
 1zeAbUJAbLOWeYpgRVnYmu,greek drill
 1zeAbUJAbLOWeYpgRVnYmu,greek trap
 2CeSpJpSDU42CUgPdGfyo0,greek trap
-2t6NEGChLyMUnGnW1LupcS,greek underground rap
-1tHNXjqv2f4qfAldD1hF5I,greek underground rap
-0MyAm8pgx6zC6FGXUHHoUj,greek hip hop
 45FQfgBXKsdtElNqmKeJTC,greek trap
-6wN4QyhoM6fN49kEB25rnl,greek hip hop
-6wN4QyhoM6fN49kEB25rnl,greek trap
 09admC8JPSuizanrDUzWtd,greek trap
+0MyAm8pgx6zC6FGXUHHoUj,greek hip hop
 0VGybH10ziMPo99SYOwMoQ,eurovision
 0VGybH10ziMPo99SYOwMoQ,greek pop
 0VGybH10ziMPo99SYOwMoQ,laiko
-4ge6vi0mSL94wzk0F8vyM5,amharic pop
+2t6NEGChLyMUnGnW1LupcS,greek underground rap
+1tHNXjqv2f4qfAldD1hF5I,greek underground rap
 48h12D3cJbqfn1ReVL9qbw,greek drill
-1fAotS2jUxpI8bnIxd5cIR,greek pop
+7BXe1v4YJm7R5wg2ioeA1q,greek trap
+7AWAljMatr7bxddF4kWzXG,greek hip hop
+7AWAljMatr7bxddF4kWzXG,greek trap
+2ra3quFhImLyv0c9XTnWFl,greek pop
+2ra3quFhImLyv0c9XTnWFl,greek trap
+2ra3quFhImLyv0c9XTnWFl,laiko
 5ALUgNuS421MZrrrAhM9Bv,hungarian hip hop
 5ALUgNuS421MZrrrAhM9Bv,hungarian pop
 1O4dvMoyQSIClCii6DSai8,hungarian pop
@@ -1576,17 +1562,17 @@ artist_id,genre
 0CJxR2iBZb64SRwApcj2Ev,hungarian hip hop
 0CJxR2iBZb64SRwApcj2Ev,magyar trap
 7ACEUD7UsmmXrnj4OLt8f9,pop edm
-3RDALl5RyRDHPryF1uyWwG,hungarian hip hop
-3RDALl5RyRDHPryF1uyWwG,hungarian pop
-3RDALl5RyRDHPryF1uyWwG,magyar trap
-1vpC76RZf9ndFkOEB7agn9,hungarian pop
-1vpC76RZf9ndFkOEB7agn9,hungarian rock
-1vpC76RZf9ndFkOEB7agn9,magyar alternative
 4vQW9JcctfeFaBjmGPr8h0,hungarian pop
 0Cw3CfY5WSyltweEK71keH,eurovision
 0Cw3CfY5WSyltweEK71keH,hungarian pop
-1UIPahyz7pEKaU6RQvU3FC,hungarian pop
+1vpC76RZf9ndFkOEB7agn9,hungarian pop
+1vpC76RZf9ndFkOEB7agn9,hungarian rock
+1vpC76RZf9ndFkOEB7agn9,magyar alternative
+3RDALl5RyRDHPryF1uyWwG,hungarian hip hop
+3RDALl5RyRDHPryF1uyWwG,hungarian pop
+3RDALl5RyRDHPryF1uyWwG,magyar trap
 1snweZ1pZSYrpF1O05SDbz,hungarian pop
+1UIPahyz7pEKaU6RQvU3FC,hungarian pop
 5iAyJ9oWG7fGCxppLihaZa,hungarian pop
 35BhE5C6szF898n5WgUSgO,hungarian pop
 35BhE5C6szF898n5WgUSgO,magyar trap
@@ -1595,19 +1581,18 @@ artist_id,genre
 0MtTfq27LQu7CmE5t308Up,icelandic rock
 6opz1Ax3VqCmeQBGax1erx,icelandic pop
 3Hb64DQZIhDCgyHKrzBXOL,icelandic pop
+2mgonCuv2QEZZbPOatCbyu,icelandic pop
+1FvIWbYLm8dBezbdjucrZb,icelandic pop
 7FRQP6Ivwv3DQCLxpR3I6Z,icelandic hip hop
 7FRQP6Ivwv3DQCLxpR3I6Z,icelandic pop
 4YnmlfVdziLiqFQtQ4zTcq,classic icelandic pop
 4YnmlfVdziLiqFQtQ4zTcq,icelandic pop
-2mgonCuv2QEZZbPOatCbyu,icelandic pop
-1FvIWbYLm8dBezbdjucrZb,icelandic pop
 0hHSuSCpKFLU5twpJNTO3t,icelandic pop
 4ynaUZA4BVF6d2XaNuflVz,icelandic pop
-2OsysEFABxUiubXfbfmrWF,icelandic pop
-21SqAOtuXFpwygK1GNxjTm,icelandic pop
 1tNJibl39hvCIVSnGaiwx5,icelandic folk
 1tNJibl39hvCIVSnGaiwx5,icelandic pop
-59htr4yXXXa644Rbl4Ckuw,icelandic pop
+21SqAOtuXFpwygK1GNxjTm,icelandic pop
+2OsysEFABxUiubXfbfmrWF,icelandic pop
 1tqysapcCh1lWEAc9dIFpa,desi pop
 1tqysapcCh1lWEAc9dIFpa,filmi
 1tqysapcCh1lWEAc9dIFpa,modern bollywood
@@ -1625,6 +1610,13 @@ artist_id,genre
 6LEG9Ld1aLImEFEVHdWNSB,desi hip hop
 6LEG9Ld1aLImEFEVHdWNSB,desi pop
 6LEG9Ld1aLImEFEVHdWNSB,punjabi pop
+77YvCBWe0tTLygpgSJsdOH,tamil pop
+7rVV9d6vc4FLT752uRuk71,desi hip hop
+7rVV9d6vc4FLT752uRuk71,tamil pop
+5FVBduYaeVBb6JIghza7v6,deep indian pop
+5FVBduYaeVBb6JIghza7v6,desi hip hop
+5FVBduYaeVBb6JIghza7v6,filmi
+5FVBduYaeVBb6JIghza7v6,tamil pop
 1mBydYMVBECdDmMfE2sEUO,desi hip hop
 1mBydYMVBECdDmMfE2sEUO,desi pop
 1mBydYMVBECdDmMfE2sEUO,filmi
@@ -1660,7 +1652,6 @@ artist_id,genre
 72beYOeW2sb2yfcS4JsRvb,desi pop
 72beYOeW2sb2yfcS4JsRvb,hindi indie
 72beYOeW2sb2yfcS4JsRvb,indian edm
-72beYOeW2sb2yfcS4JsRvb,indian indie
 1Oh5bPXjw5jreVFhKc4jux,desi hip hop
 1Oh5bPXjw5jreVFhKc4jux,desi pop
 1Oh5bPXjw5jreVFhKc4jux,punjabi pop
@@ -1671,17 +1662,10 @@ artist_id,genre
 09UmIX92EUH9hAK4bxvHx6,filmi
 09UmIX92EUH9hAK4bxvHx6,modern bollywood
 09UmIX92EUH9hAK4bxvHx6,sufi
-5gZhfbckaWo89OzDSk3gdT,punjabi pop
-4bYPcJP5jwMhSivRcqie2n,pop rock
 5NHm4TU5Twz7owibYxJfFU,desi hip hop
 5NHm4TU5Twz7owibYxJfFU,hindi hip hop
-1sVmXkzX2ukc6QvasrDBES,desi pop
-1sVmXkzX2ukc6QvasrDBES,filmi
-1sVmXkzX2ukc6QvasrDBES,modern bollywood
-0NErdIJtuKBjtxKmlqaWdj,desi pop
-0NErdIJtuKBjtxKmlqaWdj,filmi
-0NErdIJtuKBjtxKmlqaWdj,indian folk
-0NErdIJtuKBjtxKmlqaWdj,modern bollywood
+5gZhfbckaWo89OzDSk3gdT,punjabi pop
+4bYPcJP5jwMhSivRcqie2n,pop rock
 5rQoBDKFnd1n6BkdbgVaRL,desi hip hop
 5rQoBDKFnd1n6BkdbgVaRL,desi pop
 5rQoBDKFnd1n6BkdbgVaRL,modern bollywood
@@ -1690,6 +1674,13 @@ artist_id,genre
 19LIHDDSHBD5NyYHI3gpzB,filmi
 19LIHDDSHBD5NyYHI3gpzB,modern bollywood
 19LIHDDSHBD5NyYHI3gpzB,sufi
+1sVmXkzX2ukc6QvasrDBES,desi pop
+1sVmXkzX2ukc6QvasrDBES,filmi
+1sVmXkzX2ukc6QvasrDBES,modern bollywood
+0NErdIJtuKBjtxKmlqaWdj,desi pop
+0NErdIJtuKBjtxKmlqaWdj,filmi
+0NErdIJtuKBjtxKmlqaWdj,indian folk
+0NErdIJtuKBjtxKmlqaWdj,modern bollywood
 2ZzyxohC32i649slMn9Kgk,desi pop
 2ZzyxohC32i649slMn9Kgk,punjabi pop
 6DARBhWbfcS9E4yJzcliqQ,desi hip hop
@@ -1705,6 +1696,7 @@ artist_id,genre
 4zCH9qm4R2DADamUHMCa6O,desi hip hop
 4zCH9qm4R2DADamUHMCa6O,filmi
 4zCH9qm4R2DADamUHMCa6O,tamil hip hop
+1pDF5UltcypyatITA3Pduo,tollywood
 4Ai0pGz6GhQavjzaRhPTvz,desi hip hop
 4Ai0pGz6GhQavjzaRhPTvz,desi pop
 4Ai0pGz6GhQavjzaRhPTvz,hindi hip hop
@@ -1712,7 +1704,6 @@ artist_id,genre
 7qPISKHhhKDLZTmYcX7bWd,dancehall
 7qPISKHhhKDLZTmYcX7bWd,modern reggae
 7qPISKHhhKDLZTmYcX7bWd,uk dancehall
-1pDF5UltcypyatITA3Pduo,tollywood
 6RF8hEdlUKoLPQOHmBbHiM,desi pop
 6RF8hEdlUKoLPQOHmBbHiM,filmi
 6RF8hEdlUKoLPQOHmBbHiM,modern bollywood
@@ -1727,8 +1718,6 @@ artist_id,genre
 2GoeZ0qOTt6kjsWW4eA6LS,modern bollywood
 1OPqAyxsQc8mcRmoNBAnVk,desi pop
 1OPqAyxsQc8mcRmoNBAnVk,modern bollywood
-5CGQa62CAweD76eHlDmp1m,desi pop
-5CGQa62CAweD76eHlDmp1m,punjabi pop
 7d86ERlvO5UG44j7Va0Y0C,indonesian pop
 4nd1IvFkUoQinjvYdUmOBI,indonesian pop
 20zafXaLhm5IcXnSU93rNn,indonesian pop
@@ -1746,9 +1735,9 @@ artist_id,genre
 3TkSKriI4EZmTxSFyzs0fd,indonesian pop
 3TkSKriI4EZmTxSFyzs0fd,jazz pop
 3tMTXQyRrPmMyHv5SoC0TV,indonesian pop
-28DdkLhrzQNizZ0ExQpyku,indonesian pop
 51kyrUsAVqUBcoDEMFkX12,indonesian indie
 51kyrUsAVqUBcoDEMFkX12,indonesian pop
+28DdkLhrzQNizZ0ExQpyku,indonesian pop
 2kxP07DLgs4xlWz8YHlvfh,indonesian r&b
 2kxP07DLgs4xlWz8YHlvfh,pop
 0kPb52ySN2k9P6wEZPTUzm,indonesian pop
@@ -1775,50 +1764,53 @@ artist_id,genre
 1IAEef07H0fd9aA8aUHUlL,israeli mediterranean
 1IAEef07H0fd9aA8aUHUlL,israeli pop
 1IAEef07H0fd9aA8aUHUlL,mizrahi
-1wak0ZG1LUrZPYx8RDTQoD,israeli pop
 6uQl3gu1AIXyvqCAxnc2q4,israeli mediterranean
-5p205uKfxztlzI3oD15AKf,israeli pop
-7hD6dkjWHapWVwkI6bjDFo,israeli pop
 54jZWpivOTllo1afYNSx5U,israeli mediterranean
 54jZWpivOTllo1afYNSx5U,israeli pop
 54jZWpivOTllo1afYNSx5U,mizrahi
 54jZWpivOTllo1afYNSx5U,persian pop
+1wak0ZG1LUrZPYx8RDTQoD,israeli pop
+5p205uKfxztlzI3oD15AKf,israeli pop
+7hD6dkjWHapWVwkI6bjDFo,israeli pop
+3VTm1513t2LL1mSKzzyQuj,israeli pop
+5CXvT1JutlWVLJN8YEOf1h,israeli pop
 57PnQxsNvOvG2ZDElDEUjW,israeli singer-songwriter
+4iWsyISSQEYGxdqBNVwqtA,israeli pop
+4iWsyISSQEYGxdqBNVwqtA,israeli singer-songwriter
+2eUKkTNZsIuZzV95DM0cbt,israeli mediterranean
+2eUKkTNZsIuZzV95DM0cbt,israeli pop
+7hzAtM9sug5TCxGUIR7by3,israeli pop
+3JPKPnzWJGjccn8SnjwA5i,israeli mediterranean
 343YYaA5MSjiZZ5cGyTr4u,israeli pop
 6UReeaqNcjIfzIH13kTHKE,israeli pop
 2a76fsDcTl6A43zwaFNPr4,classic israeli pop
 2a76fsDcTl6A43zwaFNPr4,israeli indie
 2a76fsDcTl6A43zwaFNPr4,israeli pop
-4iWsyISSQEYGxdqBNVwqtA,israeli pop
-4iWsyISSQEYGxdqBNVwqtA,israeli singer-songwriter
-3VTm1513t2LL1mSKzzyQuj,israeli pop
-3JPKPnzWJGjccn8SnjwA5i,israeli mediterranean
-5CXvT1JutlWVLJN8YEOf1h,israeli pop
-7hzAtM9sug5TCxGUIR7by3,israeli pop
 3cDi1D2FHMVgljfdB1QVgr,israeli pop
 4XRymSxqMfKCkA6njs39lM,israeli hip hop
 4XRymSxqMfKCkA6njs39lM,israeli trap
-2eUKkTNZsIuZzV95DM0cbt,israeli mediterranean
-2eUKkTNZsIuZzV95DM0cbt,israeli pop
+4ejLVLFQUlsBRYVMcfpzNp,israeli pop
 6ltKIf1bortd0DQbpgKdQu,israeli hip hop
 2JQK9mzxqKz16lSgICHDTx,israeli hip hop
 2JQK9mzxqKz16lSgICHDTx,israeli trap
-4ejLVLFQUlsBRYVMcfpzNp,israeli pop
-0wVxjQGYkyNh5qQsVCZWlo,israeli pop
 5sbVEFMCfdQ0T3vCqXax1K,israeli mediterranean
+0wVxjQGYkyNh5qQsVCZWlo,israeli pop
 3EOEK57CV77D4ovYVcmiyt,israeli pop
+3F78m0H4Y4a1Dvd79TKVvw,israeli pop
+02XPYZHiiXvgdluCi3Esxg,israeli pop
 6h7LtkzHunGiOPhnv3HHVd,israeli pop
 17pbOSPIn3lmY0vHhOlKGL,israeli hip hop
 17pbOSPIn3lmY0vHhOlKGL,israeli pop
-3F78m0H4Y4a1Dvd79TKVvw,israeli pop
-02XPYZHiiXvgdluCi3Esxg,israeli pop
-0XNKQFs2Ewb3y0VsFUFc5l,russian hip hop
-0XNKQFs2Ewb3y0VsFUFc5l,russian trap
+6Kwkb16geAot0de45IW9Ox,israeli pop
+6l3HvQ5sa6mXTsMTB19rO5,conscious hip hop
+6l3HvQ5sa6mXTsMTB19rO5,hip hop
+6l3HvQ5sa6mXTsMTB19rO5,north carolina hip hop
+6l3HvQ5sa6mXTsMTB19rO5,rap
+6qqNVTkY8uBg9cP3Jd7DAH,electropop
+6qqNVTkY8uBg9cP3Jd7DAH,pop
+2kCcBybjl3SAtIcwdWpUe3,emo rap
+2kCcBybjl3SAtIcwdWpUe3,lgbtq+ hip hop
 4kkqGukpeagcuHEBdoV1pv,latvian hip hop
-4mWdGXvLBhz5i2Qe5swRXb,russian hip hop
-4mWdGXvLBhz5i2Qe5swRXb,russian trap
-7pivhgzLZSku2ixQRxQ5BK,eurovision
-7pivhgzLZSku2ixQRxQ5BK,latvian pop
 6OTMjaRQ9kxdwoPRYTmyOM,russian dance
 6OTMjaRQ9kxdwoPRYTmyOM,russian dance pop
 6OTMjaRQ9kxdwoPRYTmyOM,russian hip hop
@@ -1826,18 +1818,12 @@ artist_id,genre
 6OTMjaRQ9kxdwoPRYTmyOM,ukrainian pop
 2ISiyx4DLCMAMBCvPesCoq,russian dance
 2ISiyx4DLCMAMBCvPesCoq,russian pop
-6qqNVTkY8uBg9cP3Jd7DAH,electropop
-6qqNVTkY8uBg9cP3Jd7DAH,pop
-0Cm90jv892OeEegB3ELmvN,russian hip hop
-0Cm90jv892OeEegB3ELmvN,russian pop
-6l3HvQ5sa6mXTsMTB19rO5,conscious hip hop
-6l3HvQ5sa6mXTsMTB19rO5,hip hop
-6l3HvQ5sa6mXTsMTB19rO5,north carolina hip hop
-6l3HvQ5sa6mXTsMTB19rO5,rap
 0bOSNnz9bGAUlV3OJ3rnQW,belarusian hip hop
 0bOSNnz9bGAUlV3OJ3rnQW,belarusian pop
 0bOSNnz9bGAUlV3OJ3rnQW,russian hip hop
 0bOSNnz9bGAUlV3OJ3rnQW,russian pop
+0Cm90jv892OeEegB3ELmvN,russian hip hop
+0Cm90jv892OeEegB3ELmvN,russian pop
 5wV3FoaNbDB6X9INuQvs1K,dutch hip hop
 5wV3FoaNbDB6X9INuQvs1K,dutch pop
 5wV3FoaNbDB6X9INuQvs1K,dutch rap pop
@@ -1871,13 +1857,21 @@ artist_id,genre
 3AlRiyjMywTVNzTcHbf9QT,dutch rap pop
 0IxgA9wO4Op3CSnPlhfwV1,dutch hip hop
 0IxgA9wO4Op3CSnPlhfwV1,dutch rap pop
+3R6VoMjUANEP9wb7fRNXws,dutch pop
 3D2GUXbtlL3r2d5HJEnsFD,dutch cabaret
 3D2GUXbtlL3r2d5HJEnsFD,dutch pop
 3D2GUXbtlL3r2d5HJEnsFD,dutch rock
-3R6VoMjUANEP9wb7fRNXws,dutch pop
+1bObiFZkYu7IfzxVlAVj5x,dutch americana
+1bObiFZkYu7IfzxVlAVj5x,dutch pop
+1bObiFZkYu7IfzxVlAVj5x,dutch rock
+1bObiFZkYu7IfzxVlAVj5x,dutch singer-songwriter
+1bObiFZkYu7IfzxVlAVj5x,nederpop
 6m1LYS5NQonxjOcQFPQOb5,dutch hip hop
 6m1LYS5NQonxjOcQFPQOb5,dutch pop
 6m1LYS5NQonxjOcQFPQOb5,dutch rap pop
+55VC7UDCmceodks4rbHgHe,dutch pop
+06eTdzI1FA6c2cPQAeVHY2,dutch pop
+06eTdzI1FA6c2cPQAeVHY2,dutch rock
 60d24wfXkVzDSfLS6hyCjZ,dance pop
 60d24wfXkVzDSfLS6hyCjZ,dutch edm
 60d24wfXkVzDSfLS6hyCjZ,edm
@@ -1896,22 +1890,10 @@ artist_id,genre
 4NHQUGzhtTLFvgF5SZesLK,swedish electropop
 4NHQUGzhtTLFvgF5SZesLK,swedish pop
 4NHQUGzhtTLFvgF5SZesLK,swedish synthpop
-1bObiFZkYu7IfzxVlAVj5x,dutch americana
-1bObiFZkYu7IfzxVlAVj5x,dutch pop
-1bObiFZkYu7IfzxVlAVj5x,dutch rock
-1bObiFZkYu7IfzxVlAVj5x,dutch singer-songwriter
-1bObiFZkYu7IfzxVlAVj5x,nederpop
-06eTdzI1FA6c2cPQAeVHY2,dutch pop
-06eTdzI1FA6c2cPQAeVHY2,dutch rock
-2WBJQGf1bT1kxuoqziH5g4,deep house
-2WBJQGf1bT1kxuoqziH5g4,disco house
-2WBJQGf1bT1kxuoqziH5g4,house
-2WBJQGf1bT1kxuoqziH5g4,tropical house
-4FrXHrpbDLNyO3pbVv8RmF,sheffield indie
 1caoBfXJrbKCwIaTzGkyHn,nz pop
 1caoBfXJrbKCwIaTzGkyHn,nz reggae
-3eAOH2az3fQIfX2UAw0FfC,nz reggae
 0iWMmFScSBxj1z3IisnGkB,nz pop
+3eAOH2az3fQIfX2UAw0FfC,nz reggae
 32GMj177nVLZPp3lqVrCXp,nz hip hop
 0PK0Dx3s9et0Uf4XbdFpiW,nz reggae
 0PK0Dx3s9et0Uf4XbdFpiW,polynesian pop
@@ -1922,13 +1904,11 @@ artist_id,genre
 6PXS4YHDkKvl1wkIl4V8DL,rap
 6PXS4YHDkKvl1wkIl4V8DL,southern hip hop
 6PXS4YHDkKvl1wkIl4V8DL,trap
-6L1XC7NrmgWRlwAeLJvVtA,australian pop
-6L1XC7NrmgWRlwAeLJvVtA,pop
-6L1XC7NrmgWRlwAeLJvVtA,uk pop
-6S2OmqARrzebs0tKUEyXyp,dance pop
-6S2OmqARrzebs0tKUEyXyp,pop
-6S2OmqARrzebs0tKUEyXyp,pop dance
-6S2OmqARrzebs0tKUEyXyp,post-teen pop
+1IueXOQyABrMOprrzwQJWN,dance pop
+1IueXOQyABrMOprrzwQJWN,edm
+1IueXOQyABrMOprrzwQJWN,pop
+1IueXOQyABrMOprrzwQJWN,pop dance
+1IueXOQyABrMOprrzwQJWN,tropical house
 3m5qlPf2OkihLz3dRYnkPA,colombian pop
 3m5qlPf2OkihLz3dRYnkPA,latin
 3m5qlPf2OkihLz3dRYnkPA,latin pop
@@ -1970,33 +1950,31 @@ artist_id,genre
 3TikHXhctY4FUIMlkl0tzR,russian drill
 3TikHXhctY4FUIMlkl0tzR,russian hip hop
 3TikHXhctY4FUIMlkl0tzR,russian trap
+6TLwD7HPWuiOzvXEa3oCNe,alternative hip hop
 78G8FdUykcn02tsgMLi3q0,new weird finland
 78G8FdUykcn02tsgMLi3q0,russian hip hop
 78G8FdUykcn02tsgMLi3q0,russian viral rap
 0xByDfltDVpk6LDsUMHyI2,russian alt pop
 0xByDfltDVpk6LDsUMHyI2,russian electronic
-6TLwD7HPWuiOzvXEa3oCNe,alternative hip hop
+5NipqMGsY4AUeb7kGT8aVz,russian emo rap
+5NipqMGsY4AUeb7kGT8aVz,russian hip hop
+5NipqMGsY4AUeb7kGT8aVz,russian trap
+2cYbwKKlCOv5VaoU9DZwGA,russian drill
+2cYbwKKlCOv5VaoU9DZwGA,russian hip hop
+2cYbwKKlCOv5VaoU9DZwGA,russian trap
+3vvLuXEEf7sl3izJcw0GIn,kazakh pop
+3vvLuXEEf7sl3izJcw0GIn,russian hip hop
+3vvLuXEEf7sl3izJcw0GIn,russian trap
 2z20q6EEfm6w6PiIKsgtb3,kavkaz
 2z20q6EEfm6w6PiIKsgtb3,russian emo rap
 2z20q6EEfm6w6PiIKsgtb3,russian grime
 2z20q6EEfm6w6PiIKsgtb3,russian hip hop
 2z20q6EEfm6w6PiIKsgtb3,russian trap
-2cYbwKKlCOv5VaoU9DZwGA,russian drill
-2cYbwKKlCOv5VaoU9DZwGA,russian hip hop
-2cYbwKKlCOv5VaoU9DZwGA,russian trap
-5NipqMGsY4AUeb7kGT8aVz,russian emo rap
-5NipqMGsY4AUeb7kGT8aVz,russian hip hop
-5NipqMGsY4AUeb7kGT8aVz,russian trap
-3vvLuXEEf7sl3izJcw0GIn,kazakh pop
-3vvLuXEEf7sl3izJcw0GIn,russian hip hop
-3vvLuXEEf7sl3izJcw0GIn,russian trap
 27kGBCjiz5OXojkKX4xQ6R,russian drill
 27kGBCjiz5OXojkKX4xQ6R,russian hip hop
 27kGBCjiz5OXojkKX4xQ6R,russian trap
-2KoLmBXwsgMkfAvoPBlPmb,russian hip hop
-2KoLmBXwsgMkfAvoPBlPmb,russian pop
+7drPVZKqAnbY227UltZV3l,russian emo rap
 1kxqshyCqWuOQJNCTgHKzM,russian viral pop
-5BhxPvQZf65AsaThKZ5zip,russian trap
 0qc4X567Fs1DUbQ7bS2XSJ,classic russian rock
 0qc4X567Fs1DUbQ7bS2XSJ,horror punk
 0qc4X567Fs1DUbQ7bS2XSJ,russian folk rock
@@ -2005,23 +1983,24 @@ artist_id,genre
 0qc4X567Fs1DUbQ7bS2XSJ,russian punk rock
 0qc4X567Fs1DUbQ7bS2XSJ,russian rock
 0qc4X567Fs1DUbQ7bS2XSJ,russian ska
+2KoLmBXwsgMkfAvoPBlPmb,russian hip hop
+2KoLmBXwsgMkfAvoPBlPmb,russian pop
 4ywf1iH1ruKEcfpCgfJvyA,russian dance pop
 4ywf1iH1ruKEcfpCgfJvyA,russian pop
-7drPVZKqAnbY227UltZV3l,russian emo rap
+5BhxPvQZf65AsaThKZ5zip,russian trap
+5NMwoStnfHT4LdETlJSwDT,russian hip hop
+5NMwoStnfHT4LdETlJSwDT,russian trap
 1Y53ZUhXBydAzILo4Qa0s1,russian alt pop
 1Y53ZUhXBydAzILo4Qa0s1,russian synthpop
-7nhWQxOMcfIv29SBPZEcgp,russian emo rap
+1hwKCeSXpLrh4OQND6iQHw,russian drill
+1hwKCeSXpLrh4OQND6iQHw,russian grime
+1hwKCeSXpLrh4OQND6iQHw,russian hip hop
+1hwKCeSXpLrh4OQND6iQHw,russian trap
 5zXGVPJHUzQPUXKA7AlTi5,russian dance pop
 5zXGVPJHUzQPUXKA7AlTi5,russian pop
 5zXGVPJHUzQPUXKA7AlTi5,ukrainian pop
 1pvmXh50KezixmCHnp9XvV,russian dance pop
 1pvmXh50KezixmCHnp9XvV,russian pop
-1hwKCeSXpLrh4OQND6iQHw,russian drill
-1hwKCeSXpLrh4OQND6iQHw,russian grime
-1hwKCeSXpLrh4OQND6iQHw,russian hip hop
-1hwKCeSXpLrh4OQND6iQHw,russian trap
-5NMwoStnfHT4LdETlJSwDT,russian hip hop
-5NMwoStnfHT4LdETlJSwDT,russian trap
 3PyJHH2wyfQK3WZrk9rpmP,alt z
 3PyJHH2wyfQK3WZrk9rpmP,electropop
 3PyJHH2wyfQK3WZrk9rpmP,escape room
@@ -2029,6 +2008,10 @@ artist_id,genre
 6lay1nwbE6hTx1jivysUAL,escape room
 6lay1nwbE6hTx1jivysUAL,lgbtq+ hip hop
 6lay1nwbE6hTx1jivysUAL,trap queen
+7nhWQxOMcfIv29SBPZEcgp,russian emo rap
+6St8JkGHB8v3qtD7Srg6PH,russian alt pop
+0ohUvVskERzK18bvWXFEqi,russian hip hop
+0ohUvVskERzK18bvWXFEqi,russian trap
 3jc496ljiyrS3ECrD7QiqL,flamenco
 3jc496ljiyrS3ECrD7QiqL,rumba
 3jc496ljiyrS3ECrD7QiqL,world
@@ -2048,12 +2031,12 @@ artist_id,genre
 3JSSjGYcIkgsrz7892CelT,chihuahua indie
 3JSSjGYcIkgsrz7892CelT,indie triste
 3JSSjGYcIkgsrz7892CelT,mexican indie
+6E94QKXZv8BbO6QQJxcxLI,flamenco urbano
+6E94QKXZv8BbO6QQJxcxLI,pop flamenco
 0L1f9i3L3fkMNENljDOsjG,italian hip hop
 0L1f9i3L3fkMNENljDOsjG,italian pop
 0L1f9i3L3fkMNENljDOsjG,pop virale italiano
 0L1f9i3L3fkMNENljDOsjG,rap napoletano
-6E94QKXZv8BbO6QQJxcxLI,flamenco urbano
-6E94QKXZv8BbO6QQJxcxLI,pop flamenco
 46pWGuE3dSwY3bMMXGBvVS,nigerian pop
 2CCgb0KApjfQDuTppovpf8,flamenco urbano
 2CCgb0KApjfQDuTppovpf8,trap latino
@@ -2066,16 +2049,16 @@ artist_id,genre
 4V8Sr092TqfHkfAA5fXXqG,puerto rican pop
 4V8Sr092TqfHkfAA5fXXqG,tropical
 1BwDWgdDJe3TJXLZkBkpsI,swedish pop
-2zd9YxlsQvA5mkZ1NarYVQ,swedish idol pop
-2zd9YxlsQvA5mkZ1NarYVQ,swedish pop
-6RJXSfbIkEMoCJ8GAg2dVO,swedish idol pop
-6RJXSfbIkEMoCJ8GAg2dVO,swedish pop
 68dW5BU6sdVNf099EylxEt,swedish idol pop
 68dW5BU6sdVNf099EylxEt,swedish pop
 0kKygNaCQjqVLrImIftRDJ,swedish gangsta rap
 0kKygNaCQjqVLrImIftRDJ,swedish hip hop
 0kKygNaCQjqVLrImIftRDJ,swedish trap
 0kKygNaCQjqVLrImIftRDJ,swedish trap pop
+2zd9YxlsQvA5mkZ1NarYVQ,swedish idol pop
+2zd9YxlsQvA5mkZ1NarYVQ,swedish pop
+6RJXSfbIkEMoCJ8GAg2dVO,swedish idol pop
+6RJXSfbIkEMoCJ8GAg2dVO,swedish pop
 3tl4Gc5RItD9lE6MJZGhLg,gotlandsk musik
 4zGH6gaO4NohcfCXZ31bQG,europop
 4zGH6gaO4NohcfCXZ31bQG,swedish idol pop
@@ -2083,17 +2066,19 @@ artist_id,genre
 5CPsScBTPYY11Lv4Eb7k4t,europop
 5CPsScBTPYY11Lv4Eb7k4t,eurovision
 5CPsScBTPYY11Lv4Eb7k4t,swedish pop
-523y9KSneKh6APd1hKxLuF,south african house
-4cfKtwkefMW3aiXtxfw8w6,south african pop
 5tVyieWwN9j09jXUovK2zN,classic swedish pop
 5tVyieWwN9j09jXUovK2zN,europop
 5tVyieWwN9j09jXUovK2zN,swedish idol pop
 5tVyieWwN9j09jXUovK2zN,swedish pop
+523y9KSneKh6APd1hKxLuF,south african house
+4cfKtwkefMW3aiXtxfw8w6,south african pop
 6RYT3r4anXD8WAGOw6T8El,eurovision
 6RYT3r4anXD8WAGOw6T8El,melodipop
 5wXRHaEx8AvtUv0gyZHGf6,swedish idol pop
 5wXRHaEx8AvtUv0gyZHGf6,swedish pop
 5HUGPIHRwh79LbffYIUJeJ,swedish pop
+52xiNtpaYcZ5jRQ2fqmPI6,eurovision
+52xiNtpaYcZ5jRQ2fqmPI6,swedish pop
 7jEEE187pVG6InOxn03oA5,swedish pop
 59E9dYtwLTUAGuAppwFKAW,scandinavian r&b
 59E9dYtwLTUAGuAppwFKAW,swedish dancehall
@@ -2101,17 +2086,18 @@ artist_id,genre
 59E9dYtwLTUAGuAppwFKAW,swedish hip hop
 59E9dYtwLTUAGuAppwFKAW,swedish pop
 59E9dYtwLTUAGuAppwFKAW,swedish trap pop
-52xiNtpaYcZ5jRQ2fqmPI6,eurovision
-52xiNtpaYcZ5jRQ2fqmPI6,swedish pop
-6HKV18fbiZPLNSoTUnTALb,europop
-6HKV18fbiZPLNSoTUnTALb,melodipop
-6HKV18fbiZPLNSoTUnTALb,swedish idol pop
-6HKV18fbiZPLNSoTUnTALb,swedish pop
 51TXQniEQkYh89tfLjiuSy,swedish drill
 51TXQniEQkYh89tfLjiuSy,swedish gangsta rap
 51TXQniEQkYh89tfLjiuSy,swedish hip hop
 51TXQniEQkYh89tfLjiuSy,swedish trap
 51TXQniEQkYh89tfLjiuSy,swedish trap pop
+6HKV18fbiZPLNSoTUnTALb,melodipop
+6HKV18fbiZPLNSoTUnTALb,swedish idol pop
+6HKV18fbiZPLNSoTUnTALb,swedish pop
+6rYEqmajzlhGVaayOJ2bpJ,swedish gangsta rap
+6rYEqmajzlhGVaayOJ2bpJ,swedish hip hop
+6rYEqmajzlhGVaayOJ2bpJ,swedish trap
+6rYEqmajzlhGVaayOJ2bpJ,swedish trap pop
 5tDnwIxYT1LAYH37yBqg4Z,eurovision
 0GYJScAPulF6GTFYJOpHVr,swedish hip hop
 0GYJScAPulF6GTFYJOpHVr,swedish trap pop
@@ -2125,22 +2111,21 @@ artist_id,genre
 1Xylc3o4UrD53lo9CvFvVg,swedish electropop
 1Xylc3o4UrD53lo9CvFvVg,swedish pop
 1Xylc3o4UrD53lo9CvFvVg,tropical house
-6rYEqmajzlhGVaayOJ2bpJ,swedish gangsta rap
-6rYEqmajzlhGVaayOJ2bpJ,swedish hip hop
-6rYEqmajzlhGVaayOJ2bpJ,swedish trap
-6rYEqmajzlhGVaayOJ2bpJ,swedish trap pop
+2DWNa2o3BbsIHeBq7Iu6E7,swedish pop
+6HYjkczJfUdGcwIGPOq5P2,swedish idol pop
+6HYjkczJfUdGcwIGPOq5P2,swedish pop
 5FjiYgLczmrP2j1gijAGWp,eurovision
 5FjiYgLczmrP2j1gijAGWp,indie cafe pop
 5FjiYgLczmrP2j1gijAGWp,swedish pop
-6HYjkczJfUdGcwIGPOq5P2,swedish idol pop
-6HYjkczJfUdGcwIGPOq5P2,swedish pop
 3fpHdW8mp95bOCzRLcauZm,danspunk
 3fpHdW8mp95bOCzRLcauZm,eurovision
 3fpHdW8mp95bOCzRLcauZm,swedish pop
-2DWNa2o3BbsIHeBq7Iu6E7,swedish pop
 34uGMERnU9XHnmQDnK03Gj,danspunk
 34uGMERnU9XHnmQDnK03Gj,eurovision
 34uGMERnU9XHnmQDnK03Gj,swedish alternative rock
+3uFum0NCM1PtmCO0MwsOAt,classic swedish pop
+3uFum0NCM1PtmCO0MwsOAt,europop
+3uFum0NCM1PtmCO0MwsOAt,swedish pop
 1qC3LsWlbrRCPVRooOX81u,classic swedish pop
 1qC3LsWlbrRCPVRooOX81u,dansband
 1qC3LsWlbrRCPVRooOX81u,danspunk
@@ -2149,20 +2134,27 @@ artist_id,genre
 39Waq6UmqYCBEuyv8M8kjl,europop
 39Waq6UmqYCBEuyv8M8kjl,eurovision
 39Waq6UmqYCBEuyv8M8kjl,swedish pop
-3uFum0NCM1PtmCO0MwsOAt,classic swedish pop
-3uFum0NCM1PtmCO0MwsOAt,europop
-3uFum0NCM1PtmCO0MwsOAt,swedish pop
+1aA5OGASCVhznQYm71BMYg,barnmusik
 0NRMzT05nsc8mTm4iUvuHY,europop
 0NRMzT05nsc8mTm4iUvuHY,swedish idol pop
 0NRMzT05nsc8mTm4iUvuHY,swedish pop
-4L2LwkxA0Qxs9Kmo1vqO8N,skanska musik
 1gm1katIowFM22Ldqcw6DK,swedish hip hop
 1gm1katIowFM22Ldqcw6DK,swedish trap pop
-3MPhQdwcGDArJTh3SvU9nj,swedish pop
+4L2LwkxA0Qxs9Kmo1vqO8N,skanska musik
 6xErgeZYatiaQ36SB5bvi8,chinese indie
 6xErgeZYatiaQ36SB5bvi8,mandopop
 6xErgeZYatiaQ36SB5bvi8,taiwan indie
 7nKA1c1Qn6nI0XA8yburf3,mainland chinese pop
+6cEuCEZu7PAE9ZSzLLc2oQ,dance pop
+6cEuCEZu7PAE9ZSzLLc2oQ,dutch house
+6cEuCEZu7PAE9ZSzLLc2oQ,edm
+6cEuCEZu7PAE9ZSzLLc2oQ,electro house
+6cEuCEZu7PAE9ZSzLLc2oQ,pop
+6cEuCEZu7PAE9ZSzLLc2oQ,pop dance
+6cEuCEZu7PAE9ZSzLLc2oQ,progressive electro house
+6cEuCEZu7PAE9ZSzLLc2oQ,slap house
+6cEuCEZu7PAE9ZSzLLc2oQ,tropical house
+1r9DuPTHiQ7hnRRZ99B8nL,mandopop
 4MMQmzYiUiuD8VwjrJu3v6,mandopop
 4MMQmzYiUiuD8VwjrJu3v6,taiwan singer-songwriter
 6QYehwA9q6UQEMs1Vak0uy,mandopop
@@ -2180,36 +2172,33 @@ artist_id,genre
 6eLpNMX3ZygSrUuxAlIWIx,mandopop
 6eLpNMX3ZygSrUuxAlIWIx,taiwan pop
 6eLpNMX3ZygSrUuxAlIWIx,taiwan singer-songwriter
+16s0YTFcyjP4kgFwt7ktrY,c-pop
+16s0YTFcyjP4kgFwt7ktrY,mandopop
+16s0YTFcyjP4kgFwt7ktrY,taiwan pop
 4xlAHgZnzzPHtoKnev0gwJ,chinese indie
 4xlAHgZnzzPHtoKnev0gwJ,mandopop
 6taSlFSqCqAEUHOliFyHt7,mainland chinese pop
-5R56NYbLCC2HpOwlYBnmeN,mainland chinese pop
-5R56NYbLCC2HpOwlYBnmeN,mandopop
 190bkHbFrRvEhcB7Zpuv3y,chinese indie
 190bkHbFrRvEhcB7Zpuv3y,mandopop
 190bkHbFrRvEhcB7Zpuv3y,taiwan indie
 190bkHbFrRvEhcB7Zpuv3y,taiwan pop
 190bkHbFrRvEhcB7Zpuv3y,taiwan singer-songwriter
-16s0YTFcyjP4kgFwt7ktrY,c-pop
-16s0YTFcyjP4kgFwt7ktrY,mandopop
-16s0YTFcyjP4kgFwt7ktrY,taiwan pop
+5R56NYbLCC2HpOwlYBnmeN,mainland chinese pop
+5R56NYbLCC2HpOwlYBnmeN,mandopop
+6cMRDBCHMYjyCH2D0s6uzr,mandopop
+6cMRDBCHMYjyCH2D0s6uzr,taiwan indie
+6cMRDBCHMYjyCH2D0s6uzr,taiwan singer-songwriter
 3aIDSTKS9yH745GUQBxDcS,c-pop
 3aIDSTKS9yH745GUQBxDcS,malaysian mandopop
 3aIDSTKS9yH745GUQBxDcS,mandopop
 3dI4Io8XE33J2o04ZwjR0Y,chinese indie
 3dI4Io8XE33J2o04ZwjR0Y,mandopop
 3dI4Io8XE33J2o04ZwjR0Y,taiwan singer-songwriter
-6cMRDBCHMYjyCH2D0s6uzr,mandopop
-6cMRDBCHMYjyCH2D0s6uzr,taiwan indie
-6cMRDBCHMYjyCH2D0s6uzr,taiwan singer-songwriter
 0RaC2hXyniYsju0mCSNz90,mandopop
-6PNEi9i2MxUgRufqYr76Xt,c-pop
-6PNEi9i2MxUgRufqYr76Xt,classic mandopop
-6PNEi9i2MxUgRufqYr76Xt,mandopop
-6PNEi9i2MxUgRufqYr76Xt,taiwan pop
-6PNEi9i2MxUgRufqYr76Xt,taiwan singer-songwriter
-7aMQdNM05rPkcHS1ethHUx,mandopop
-7aMQdNM05rPkcHS1ethHUx,taiwan hip hop
+6g641431O1Xkl7HAs2yFEg,mandopop
+6g641431O1Xkl7HAs2yFEg,taiwan indie
+6g641431O1Xkl7HAs2yFEg,taiwan pop
+6g641431O1Xkl7HAs2yFEg,taiwanese indie
 4PdggFNYwGfjRfkdG5OfES,cumbia pop
 2WhGojaMjv4VVn2HQSqrLM,cumbia pop
 51wGpVg4Z3lv1IjuZAQjXn,v-pop
@@ -2231,11 +2220,11 @@ artist_id,genre
 2xK6qcvfXuFFbU0NL95aeo,v-pop
 2xK6qcvfXuFFbU0NL95aeo,vietnamese singer-songwriter
 0IdAjS2LRieBR3gzoazdAw,v-pop
-6RUfMGubOnHT1p3nfeXpBl,v-pop
-75Ki5hBCOpDtKGoFyTvLxP,v-pop
+0DL9VpY3UsZWQyDOO5Ej2o,v-pop
 2xvW7dgL1640K8exTcRMS4,indie viet
 2xvW7dgL1640K8exTcRMS4,v-pop
-0DL9VpY3UsZWQyDOO5Ej2o,v-pop
+6RUfMGubOnHT1p3nfeXpBl,v-pop
+75Ki5hBCOpDtKGoFyTvLxP,v-pop
 6ZmHJcmCcc9X2sAyz6cHng,v-pop
 3OeYidiG0MAcGmiSwTHZf6,v-pop
 4x1fUORHa2EsxrQ6ZzAoQ0,v-pop
@@ -2248,6 +2237,9 @@ artist_id,genre
 3rjcQ5VIWCN4q7UFetzdeO,vietnamese hip hop
 6NF9Oa4ThQWCj6mogFSrVD,indie viet
 6NF9Oa4ThQWCj6mogFSrVD,v-pop
+4RGBKkUyyvsim9vdBKCCkc,v-pop
+4RGBKkUyyvsim9vdBKCCkc,vietnamese hip hop
+7mFCX07lzCFLpHm72R93oB,indie viet
 5fa13NJjmn2uQ3dxZDi2Ge,v-pop
 0qkGQFUrj8ERPAZcdpa79j,v-pop
 7H9jPV9qWyp6V629038aXU,v-pop
@@ -2256,9 +2248,6 @@ artist_id,genre
 0r63ReVRjxrS4ATbLrdcrL,v-pop
 2nSO7JYDbJrYbJmP39qUzj,v-pop
 2nSO7JYDbJrYbJmP39qUzj,vietnamese hip hop
-4RGBKkUyyvsim9vdBKCCkc,v-pop
-4RGBKkUyyvsim9vdBKCCkc,vietnamese hip hop
-7mFCX07lzCFLpHm72R93oB,indie viet
 5Kh0ta0UY4uJ4g2CIdq9V9,v-pop
 2rVYwIYNEsMxtt8j5yemHb,indie viet
 2rVYwIYNEsMxtt8j5yemHb,v-pop
@@ -2268,7 +2257,4 @@ artist_id,genre
 1WvNgEoB66jmHodcj15Zi9,v-pop
 1WvNgEoB66jmHodcj15Zi9,vietnamese hip hop
 1L1VfizWn4DkFt602yD80U,v-pop
-5UNWQJdUbO8Gbg9Qn3r52M,v-pop
-1HY2Jd0NmPuamShAr6KMms,dance pop
-1HY2Jd0NmPuamShAr6KMms,pop
-1HY2Jd0NmPuamShAr6KMms,pop dance
+7gJkNlcHtpuOhvl1FIDK1y,v-pop
