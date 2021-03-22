@@ -1,0 +1,112 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+            },
+            "followers": {
+                "href": null,
+                "total": 43677930
+            },
+            "genres": [
+                "canadian pop",
+                "pop",
+                "post-teen pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/1a81cce45919b84a588bb1f277e9ec818ff64f92",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/17c114f4f67d3a4aa9c4cfe284f3d16eb4e4345c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/6bdd4e8479dfa008c1a6d0de694985e938552939",
+                    "width": 160
+                }
+            ],
+            "name": "Justin Bieber",
+            "popularity": 97,
+            "type": "artist",
+            "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+            },
+            "followers": {
+                "href": null,
+                "total": 2527315
+            },
+            "genres": [
+                "canadian contemporary r&b",
+                "pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+            "id": "20wkVLutqVOYrc0kxFs7rA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/f9dbecfbec79585821a0058c96fde9a57b9c106c",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/560a6a1784f38953c82e98344d3f3dde6fa79a93",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/dad2ec3fc54f36f983f131660a3a01aa6e5559a8",
+                    "width": 160
+                }
+            ],
+            "name": "Daniel Caesar",
+            "popularity": 82,
+            "type": "artist",
+            "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+            },
+            "followers": {
+                "href": null,
+                "total": 794220
+            },
+            "genres": [
+                "pop"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP",
+            "id": "4fxd5Ee7UefO4CUXgwJ7IP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/7336d78c90f365c33a72e04b0b627d4a483c981b",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/c30da1d9668e09e08b7f2a0025d549ce9c9d4092",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/339f9a83bbdac9d307dab0abb23e5cf07af65505",
+                    "width": 160
+                }
+            ],
+            "name": "Giveon",
+            "popularity": 86,
+            "type": "artist",
+            "uri": "spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+    ]
+}
