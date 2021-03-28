@@ -1,6 +1,17 @@
 import './App.css';
 import React, {useState, useEffect} from "react";
 import Axios from 'axios';
+import { makeStyles } from '@material-ui/core/styles';
+import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Grid, TextField, Button } from '@material-ui/core';
+
+const useStyles = makeStyles((theme) => ({
+  root: {
+    '& .MuiTextField-root': {
+      margin: theme.spacing(1),
+      width: '25ch',
+    },
+  },
+}));
 
 function App() {
   const [songId, setSongId] = useState(''); 
@@ -15,6 +26,7 @@ function App() {
   const [countryChart, setCountryChart] = useState('');
   const [chartRank, setChartRank] = useState('');
   const [songCharts, setSongCharts] = useState([]);
+  const [newSongCharts, setNewSongCharts] = useState([]);
   
   const [newSongName, setNewSongName] = useState("");
   const [newArtistName, setNewArtistName] = useState("");
@@ -22,12 +34,29 @@ function App() {
   const [newCountryChart, setNewCountryChart] = useState("");
   const [newCountryRank, setNewChartRank] = useState("");
 
+  const [searchCountry, setSearchCountry] = useState("");
+
   useEffect(() => {
-    Axios.get('http://localhost:3002/api/get').then((response) => {
+    Axios.get('http://localhost:3002/api/get', 
+    {params: {
+      search: searchCountry
+    }}
+    ).then((response) => {
       console.log(response.data)
-      setSongCharts(response.data)
+      setNewSongCharts(response.data)
     })
   },[])
+
+  const searchChart = () => {
+    Axios.get('http://localhost:3002/api/get', 
+    {params: {
+      search: searchCountry
+    }}
+    ).then((response) => {
+      console.log(response.data)
+      setNewSongCharts(response.data)
+    })
+  };
 
   const submitNewSong = () => { 
     Axios.post('http://localhost:3002/api/insert', {
@@ -64,11 +93,6 @@ function App() {
 
   const deleteSong = (songId, artistId, albumId) => {
     Axios.delete(`http://localhost:3002/api/delete/${albumId}/${artistId}/${songId}`
-      // data: {
-      //   songId: "$songId",
-      //   artistId: "$artistId",
-      //   albumId: "$albumId"
-      // }
     );
   };
 
@@ -91,120 +115,88 @@ function App() {
     setNewChartRank("")
   };
 
+  const classes = useStyles();
+
   return (
-    <div className="App">
-      <h1> CRUD APPLICATIONS</h1>
+    <Grid className="App" container direction = "column" justify="center" alignItems="center">
+      <Grid item>
+        <h1> Spotify The World</h1>
+      </Grid>
 
-      <div className="form">
-        <div>
-          <label> Song ID:</label>
-          <input type="text" name="songId" onChange={(e) => {
-            setSongId(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Song:</label>
-          <input type="text" name="songName" onChange={(e) => {
-            setSongName(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Artist ID:</label>
-          <input type="text" name="artistId" onChange={(e) => {
-            setArtistId(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Artist:</label>
-          <input type="text" name="artistName" onChange={(e) => {
-            setArtistName(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Artist Type:</label>
-          <input type="text" name="artistType" onChange={(e) => {
-            setArtistType(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Album ID:</label>
-          <input type="text" name="albumId" onChange={(e) => {
-            setAlbumId(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Album Name:</label>
-          <input type="text" name="albumName" onChange={(e) => {
-            setAlbumName(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Release Date:</label>
-          <input type="text" name="releaseDate" onChange={(e) => {
-            setReleaseDate(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Duration:</label>
-          <input type="text" name="duration" onChange={(e) => {
-            setDuration(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Country Chart:</label>
-          <input type="text" name="countryChart" onChange={(e) => {
-            setCountryChart(e.target.value)
-          } }/>
-        </div>
-        <div>
-          <label> Chart Rank:</label>
-          <input type="text" name="chartRank" onChange={(e) => {
-            setChartRank(e.target.value)
-          } }/>
-        </div>
+      <Grid item>
+        <form className = {classes.root}>
+          <div>
+            <TextField id = "standard-required" label="Song ID" onChange={(e) => {setSongId(e.target.value)} }/>
+            <TextField id = "standard-required" label="Song Name" onChange={(e) => {setSongName(e.target.value)} }/>
+            <TextField id = "standard-required" label="Artist ID" onChange={(e) => {setArtistId(e.target.value)} }/>
+            <TextField id = "standard-required" label="Artist Name" onChange={(e) => {setArtistName(e.target.value)} }/>
+            <TextField id = "standard-required" label="Artist Type" onChange={(e) => {setArtistType(e.target.value)} }/>
+            <TextField id = "standard-required" label="Album ID" onChange={(e) => {setAlbumId(e.target.value)} }/>
+            <TextField id = "standard-required" label="Album Name" onChange={(e) => {setAlbumName(e.target.value)} }/>
+            <TextField id = "standard-required" label="Release Date" onChange={(e) => {setReleaseDate(e.target.value)} }/>
+            <TextField id = "standard-required" label="Duration of Song" onChange={(e) => {setDuration(e.target.value)} }/>
+            <TextField id = "standard-required" label="Country Chart" onChange={(e) => {setCountryChart(e.target.value)} }/>
+            <TextField id = "standard-required" label="Rank in Chart" onChange={(e) => {setChartRank(e.target.value)} }/>
 
-        
-        <button onClick={submitNewSong}> Submit</button>
+          </div>
+        </form>
+        <Button variant="contained" color="primary" onClick={submitNewSong}> Add New Entry </Button>
+      </Grid>
 
-        {songCharts.map((val) => {
-          return (
-            <div className = "card" border="2px">
-              <div border="2px">
-                <div display = "flex" > Song: {val.name} </div>
-                <div display = "flex"> Artist: {val.artist_name}</div>
-                <div display = "flex"> Album: {val.album_name}</div>
-                <div display = "flex"> Country: {val.country_chart}</div>
-                <div display = "flex"> Chart: {val.chart_rank}</div>
-              </div>
-              <button onClick={() => { deleteSong(val.song_id, val.artist_id, val.album_id) }}> Delete</button>
-              <input type="text" id="updateSongName" defaultValue = {val.name} onChange={(e) => {
-                setNewSongName(e.target.value)
-              } }/>
-              <input type="text" id="updateArtistName" defaultValue = {val.artist_name} onChange={(e) => {
-                setNewArtistName(e.target.value)
-              } }/>
-              <input type="text" id="updateAlbumName" defaultValue = {val.album_name} onChange={(e) => {
-                setNewAlbumName(e.target.value)
-              } }/>
-              <input type="text" id="updateCountryChart" defaultValue = {val.country_chart} onChange={(e) => {
-                setNewCountryChart(e.target.value)
-              } }/>
-              <input type="text" id="updateChartRank" defaultValue = {val.chart_rank} onChange={(e) => {
-                setNewChartRank(e.target.value)
-              } }/>
-              <button onClick={() => {
-                updateSong(val.album_id, val.artist_id, val.song_id)
-              }}> Update</button>
-              </div>
-          );
-          
-          ;
-        })}
-        
+      <Grid item>
+        <form className = {classes.root}>
+            <div>
+              <TextField id = "standard-required" label="Country" onChange={(e) => {setSearchCountry(e.target.value)} }/>
 
-      </div>
+          </div>
+        </form>
+        <Button variant="contained" color="primary" onClick={searchChart}> Search </Button>
+      </Grid>
+        <Grid item>
+          <TableContainer component={Paper}>
+            <Table className={classes.table} aria-label="simple table">
+              <TableHead>
+                <TableRow>
+                  <TableCell> Song </TableCell>
+                  <TableCell align="right"> Artist </TableCell>
+                  <TableCell align="right"> Album </TableCell>
+                  <TableCell align="right">Country </TableCell>
+                  <TableCell align="right">Chart </TableCell>
+                  <TableCell align="right">Action </TableCell>
+                </TableRow>
+              </TableHead>
+
+              <TableBody>
+                {newSongCharts.map((val) => (
+                  // Might have issues here. Multiple songs with the same song name
+                  <TableRow key={val.name}>
+                    <TableCell component="th" scope="row">
+                      {val.name}
+                    </TableCell>
+                    <TableCell align="right">{val.artist_name}</TableCell>
+                    <TableCell align="right">{val.album_name}</TableCell>
+                    <TableCell align="right">{val.country_chart}</TableCell>
+                    <TableCell align="right">{val.chart_rank}</TableCell>
+                    <TableCell align="center"> 
+                      <Button
+                        onClick={() => { deleteSong(val.song_id, val.artist_id, val.album_id) }}
+                        color="secondary"
+                      >Delete</Button>
+
+                      <Button
+                        onClick={() => {updateSong(val.album_id, val.artist_id, val.song_id)}}
+                        color="secondary"
+                      >Update</Button>
+                    
+                    </TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+            </Table>
+          </TableContainer>
+        </Grid>
       
-    </div>
+    </Grid>
   );
 }
 
