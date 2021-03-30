@@ -17,6 +17,16 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
 
+// retrieve
+app.get("/api/retrieve", (require, response) => {
+  const sqlSelect = "SELECT si.artist_id, a.artist_name, AVG(s.chart_rank) as avgrating, COUNT(*) as count FROM (Song s JOIN Sings si ON s.song_id = si.song_id) JOIN Artist a on si.artist_id = a.artist_id GROUP BY a.artist_id HAVING count > 1 ORDER BY count DESC, avgrating ASC LIMIT 15";
+  db.query(sqlSelect, (err, result) => {
+      console.log(result);
+      console.log(err);
+      response.send(result);
+  });
+});
+
 // READ
 app.get("/api/get", (require, response) => {
   const searchCountry = require.query.search;

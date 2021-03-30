@@ -53,6 +53,7 @@ function App() {
 
   const [searchCountry, setSearchCountry] = useState("");
 
+  const [queryList, setQueryList] = useState([]);
 
   useEffect(() => {
     Axios.get('http://localhost:3002/api/get', 
@@ -78,6 +79,13 @@ function App() {
         response.data[i].id = response.data[i].song_id.concat(response.data[i].artist_id);
       }
       setNewSongCharts(response.data)
+    })
+  };
+
+  const getQuery = () => {
+    Axios.get('http://localhost:3002/api/retrieve').then((response) => {
+      console.log(response.data)
+      setQueryList(response.data)
     })
   };
 
@@ -188,10 +196,37 @@ function App() {
   const classes = useStyles();
 
   return (
-    <Grid className="App" container direction = "column" justify="center" alignItems="center">
+    <Grid className="App" container direction = "column" justify="center" alignItems="center" spacing={4}>
       <Grid item>
         <h1> Spotify The World</h1>
       </Grid>
+
+      <Grid item>
+          <Button variant="contained" color="primary" onClick={getQuery} color="secondary"> Retrieve Query </Button>
+          <TableContainer component={Paper}>
+            <Table className={classes.table} aria-label="simple table">
+              <TableHead>
+                <TableRow>
+                  <TableCell align="center"> Artist ID </TableCell>
+                  <TableCell align="center"> Artist Name </TableCell>
+                  <TableCell align="center"> Average Rating </TableCell>
+                  <TableCell align="center"> Number of times songs appeared in Charts </TableCell>
+                </TableRow>
+              </TableHead>
+
+              <TableBody>
+                {queryList.map(val => (
+                  <TableRow key={val.artist_id}>
+                    <TableCell align="center"> {val.artist_id} </TableCell>
+                    <TableCell align="center"> {val.artist_name} </TableCell>
+                    <TableCell align="center"> {val.avgrating} </TableCell>
+                    <TableCell align="center"> {val.count} </TableCell>
+                  </TableRow>
+                ))}
+              </TableBody>
+            </Table>
+          </TableContainer>
+        </Grid>
 
       <Grid item>
         <form className = {classes.root}>
@@ -266,7 +301,7 @@ function App() {
             </Table>
           </TableContainer>
         </Grid>
-      
+        
     </Grid>
   );
 }
