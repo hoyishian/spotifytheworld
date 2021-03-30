@@ -8,6 +8,7 @@ var count = 0;
 
 var db = mysql.createConnection({
   host: "localhost",
+  // host: "23.236.52.139",
   user: "root",
   database: "SpotifyDatabase",
 });
@@ -75,19 +76,19 @@ app.delete("/api/delete/:albumId/:artistId/:songId", (require, response) => {
   const artistId = require.params.artistId;
   const albumId = require.params.albumId;
 
-  const sqlDelete = "DELETE FROM Artist WHERE artist_id LIKE ?";
+  const sqlDelete = "DELETE FROM Artist WHERE artist_id = ?";
   db.query(sqlDelete, artistId, (err, result) => {
     console.log(err);
   });
-  const sqlDelete1 = "DELETE FROM Sings WHERE song_id LIKE ? AND artist_id LIKE ?";
+  const sqlDelete1 = "DELETE FROM Sings WHERE song_id = ? AND artist_id = ?";
   db.query(sqlDelete1, [songId, artistId], (err, result) => {
     console.log(err);
   });
-  const sqlDelete2 = "DELETE FROM Album WHERE album_id LIKE ?";
+  const sqlDelete2 = "DELETE FROM Album WHERE album_id = ?";
   db.query(sqlDelete2, albumId, (err, result) => {
     console.log(err);
   });
-  const sqlDelete3 = "DELETE FROM Song WHERE song_id LIKE ?";
+  const sqlDelete3 = "DELETE FROM Song WHERE song_id = ?";
   db.query(sqlDelete3, songId, (err, result) => {
     console.log(err);
   });
@@ -104,12 +105,21 @@ app.put("/api/update/", (require, response) => {
   const countryChart = require.body.countryChart;
   const countryRank = require.body.countryRank;
 
-  const sqlUpdate = "UPDATE Artist SET artist_name = ? WHERE artist_id= ?";
+  console.log(albumId)
+  console.log(artistId)
+  console.log(songId)
+  console.log(songName)
+  console.log(artistName)
+  console.log(albumName)
+  console.log(countryChart)
+  console.log(countryRank)
+
+  const sqlUpdate = "UPDATE Artist SET artist_name = ? WHERE artist_id = ?";
   db.query(sqlUpdate, [artistName,artistId], (err, result) => {
       if (err) 
       console.log(err);
   })
-  const sqlUpdate1 = "UPDATE Song SET name = ?, country_chart = ?, chart_rank = ? WHERE song_id= ?";
+  const sqlUpdate1 = "UPDATE Song SET name = ?, country_chart = ?, chart_rank = ? WHERE song_id = ?";
   db.query(sqlUpdate1, [songName,countryChart, countryRank, songId], (err, result) => {
       if (err) 
       console.log(err);

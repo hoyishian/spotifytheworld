@@ -2,7 +2,7 @@ import './App.css';
 import React, {useState, useEffect} from "react";
 import Axios from 'axios';
 import { makeStyles } from '@material-ui/core/styles';
-import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Grid, TextField, Button } from '@material-ui/core';
+import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Grid, TextField, Button, Input } from '@material-ui/core';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -12,6 +12,23 @@ const useStyles = makeStyles((theme) => ({
     },
   },
 }));
+
+const CustomTableCell = ({ val, name, onChange }) => {
+  const { editMode } = val;
+  return (
+    <TableCell align="center" >
+      {editMode ? (
+        <Input
+          value={val[name]}
+          name={name}
+          onChange={e => onChange(e, val)}
+        />
+      ) : (
+        val[name]
+      )}
+    </TableCell>
+  );
+};
 
 function App() {
   const [songId, setSongId] = useState(''); 
@@ -36,6 +53,7 @@ function App() {
 
   const [searchCountry, setSearchCountry] = useState("");
 
+
   useEffect(() => {
     Axios.get('http://localhost:3002/api/get', 
     {params: {
@@ -54,8 +72,51 @@ function App() {
     }}
     ).then((response) => {
       console.log(response.data)
+      var i;
+      for (i = 0; i < response.data.length; i++) {
+        response.data[i].editMode = false;
+        response.data[i].id = response.data[i].song_id.concat(response.data[i].artist_id);
+      }
       setNewSongCharts(response.data)
     })
+  };
+
+  const onToggleEditMode = (id) => {
+    setNewSongCharts(state => {
+      return newSongCharts.map(row => {
+        if (row.id === id) {
+          return { ...row, editMode: !row.editMode };
+        }
+        return row;
+      });
+    });
+  };
+
+  const onChange = (e, row) => {
+    const value = e.target.value;
+    const name = e.target.name;
+    const { id } = row;
+    console.log(name)
+    console.log(value)
+    if (name === "name") {
+      setNewSongName(value);
+    } else if (name === "artist_name") {
+      setNewArtistName(value);
+    } else if (name === "album_name") {
+      setNewAlbumName(value)
+    } else if (name === "country_chart") {
+      setNewCountryChart(value)
+    } else if (name === "chart_rank") {
+      setNewChartRank(value)
+    }
+
+    const newRows = newSongCharts.map(row => {
+      if (row.id === id) {
+        return { ...row, [name]: value };
+      }
+      return row;
+    });
+    setNewSongCharts(newRows);
   };
 
   const submitNewSong = () => { 
@@ -96,7 +157,15 @@ function App() {
     );
   };
 
-  const updateSong = (curralbumId, currartistId, currsongId) => {
+  const updateSong = (curralbumId, currartistId, currsongId, id) => {
+    console.log(curralbumId)
+    console.log(currartistId)
+    console.log(currsongId)
+    console.log(newSongName)
+    console.log(newArtistName)
+    console.log(newAlbumName)
+    console.log(newCountryChart)
+    console.log(newCountryRank)
     Axios.put(`http://localhost:3002/api/update`, {
       albumId: curralbumId,
       artistId: currartistId,
@@ -113,6 +182,7 @@ function App() {
     setNewAlbumName("")
     setNewCountryChart("")
     setNewChartRank("")
+    onToggleEditMode(id)
   };
 
   const classes = useStyles();
@@ -158,36 +228,37 @@ function App() {
               <TableHead>
                 <TableRow>
                   <TableCell> Song </TableCell>
-                  <TableCell align="right"> Artist </TableCell>
-                  <TableCell align="right"> Album </TableCell>
-                  <TableCell align="right">Country </TableCell>
-                  <TableCell align="right">Chart </TableCell>
-                  <TableCell align="right">Action </TableCell>
+                  <TableCell align="center"> Artist </TableCell>
+                  <TableCell align="center"> Album </TableCell>
+                  <TableCell align="center">Country </TableCell>
+                  <TableCell align="center">Chart </TableCell>
+                  <TableCell align="center">Action </TableCell>
                 </TableRow>
               </TableHead>
 
               <TableBody>
-                {newSongCharts.map((val) => (
+                {newSongCharts.map(val => (
                   // Might have issues here. Multiple songs with the same song name
-                  <TableRow key={val.name}>
-                    <TableCell component="th" scope="row">
-                      {val.name}
-                    </TableCell>
-                    <TableCell align="right">{val.artist_name}</TableCell>
-                    <TableCell align="right">{val.album_name}</TableCell>
-                    <TableCell align="right">{val.country_chart}</TableCell>
-                    <TableCell align="right">{val.chart_rank}</TableCell>
+                  <TableRow key={val.id}>
+                    <CustomTableCell {...{ val, name: "name", onChange }} />
+                    <CustomTableCell {...{ val, name: "artist_name", onChange }} />
+                    <CustomTableCell {...{ val, name: "album_name", onChange }} />
+                    <CustomTableCell {...{ val, name: "country_chart", onChange }} />
+                    <CustomTableCell {...{ val, name: "chart_rank", onChange }} />
                     <TableCell align="center"> 
-                      <Button
-                        onClick={() => { deleteSong(val.song_id, val.artist_id, val.album_id) }}
-                        color="secondary"
-                      >Delete</Button>
-
-                      <Button
-                        onClick={() => {updateSong(val.album_id, val.artist_id, val.song_id)}}
-                        color="secondary"
-                      >Update</Button>
-                    
+                       {val.editMode ?
+                          <>
+                            <Button
+                            onClick={() => updateSong(val.album_id, val.artist_id, val.song_id, val.id)}
+                            color="secondary"
+                            >Done</Button>
+                         </>
+                        : 
+                          <>
+                            <Button onClick={() => deleteSong(val.song_id, val.artist_id, val.album_id)} color="secondary"> Delete </Button>
+                            <Button onClick={() => onToggleEditMode(val.id)} color="secondary"> Update </Button>
+                          </>
+                       } 
                     </TableCell>
                   </TableRow>
                 ))}
