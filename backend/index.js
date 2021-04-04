@@ -7,10 +7,11 @@ const cors = require("cors");
 var count = 0;
 
 var db = mysql.createConnection({
-  host: "localhost",
-  // host: "23.236.52.139",
+  // host: "localhost",
+  host: "23.236.52.139",
   user: "root",
   database: "SpotifyDatabase",
+  password: "112233"
 });
 
 app.use(cors());
