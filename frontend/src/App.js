@@ -416,7 +416,7 @@ function App() {
       {tab === 0 && (
         <Grid item>
           <TableContainer className={classes.container} component={Paper}>
-            <Table className={classes.table} aria-label="simple table">
+            <Table className={classes.container} aria-label="simple table">
               <TableHead>
                 <TableRow>
                   <TableCell align="center">Rank </TableCell>
