@@ -345,10 +345,10 @@ function App() {
   };
 
   
-  const searchChart = () => {
+  const searchChart = (value) => {
     Axios.get("http://localhost:3002/api/get", {
       params: {
-        search: searchCountry,
+        search: value,
       },
     }).then((response) => {
       console.log(response.data);
@@ -363,9 +363,17 @@ function App() {
     });
   };
 
+  // For My Songs Retrieval
+  const getMyCharts = () => {
+        Axios.get('http://localhost:3002/api/retrieve').then((response) => {
+          console.log(response.data)
+          setMyCharts(response.data)
+        })
+      };
+
   const changeCountry = (event) => {
     setSearchCountry(event.target.value);
-    searchChart();
+    searchChart(event.target.value);
   };
 
   const classes = useStyles();
@@ -397,7 +405,7 @@ function App() {
       <Grid item>
         <FormControl className={classes.formControl}>
           <InputLabel>Chart</InputLabel>
-          <Select onChange = {changeCountry} value={searchCountry} onChange={changeCountry}>
+          <Select onChange = {changeCountry} value={searchCountry} >
             <MenuItem value={"Global"}>Global</MenuItem>
             <MenuItem value={"USA"}>United States</MenuItem>
             <MenuItem value={"United Kingdom"}>United Kingdom</MenuItem>
@@ -407,7 +415,7 @@ function App() {
 
       {tab === 0 && (
         <Grid item>
-          <TableContainer component={Paper}>
+          <TableContainer className={classes.container} component={Paper}>
             <Table className={classes.table} aria-label="simple table">
               <TableHead>
                 <TableRow>
@@ -435,8 +443,8 @@ function App() {
 
       {tab === 1 && (
         <Grid item>
-          <TableContainer component={Paper}>
-            <Table className={classes.table} aria-label="simple table">
+          <TableContainer className={classes.container} component={Paper}>
+            <Table className={classes.container} aria-label="simple table">
               <TableHead>
                 <TableRow>
                   <TableCell align="center">Rank </TableCell>
@@ -473,7 +481,7 @@ function App() {
 
       {tab === 1 && (
         <Grid item>
-          <Button variant="contained" color="primary">
+          <Button onClick={getMyCharts} variant="contained" color="primary">
             Refresh
           </Button>
         </Grid>
@@ -481,8 +489,8 @@ function App() {
 
       {tab === 1 && (
         <Grid item>
-          <TableContainer component={Paper}>
-            <Table className={classes.table} aria-label="simple table">
+          <TableContainer className={classes.container} component={Paper}>
+            <Table className={classes.container} aria-label="simple table">
               <TableHead>
                 <TableRow>
                   <TableCell align="center"> Song </TableCell>

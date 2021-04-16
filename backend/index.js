@@ -7,11 +7,11 @@ const cors = require("cors");
 var count = 0;
 
 var db = mysql.createConnection({
-  // host: "localhost",
-  host: "23.236.52.139",
+  host: "localhost",
+  // host: "23.236.52.139",
   user: "root",
   database: "SpotifyDatabase",
-  password: "112233"
+  // password: "112233"
 });
 
 app.use(cors());
@@ -20,7 +20,7 @@ app.use(express.json());
 
 // retrieve
 app.get("/api/retrieve", (require, response) => {
-  const sqlSelect = "SELECT si.artist_id, a.artist_name, AVG(s.chart_rank) as avgrating, COUNT(*) as count FROM (Song s JOIN Sings si ON s.song_id = si.song_id) JOIN Artist a on si.artist_id = a.artist_id GROUP BY a.artist_id HAVING count > 1 ORDER BY count DESC, avgrating ASC LIMIT 15";
+  const sqlSelect = "SELECT DISTINCT s.name, a.artist_name, al.album_name, s.country_chart, s.chart_rank, s.song_id, al.album_id, a.artist_id, p.note FROM (((Personalize P JOIN Song s ON p.song_id = s.song_id AND p.country_chart = s.country_chart) JOIN Sings si ON s.song_id = si.song_id) JOIN Artist a ON si.artist_id = a.artist_id) JOIN Album al ON s.album_id = al.album_id" ;
   db.query(sqlSelect, (err, result) => {
       console.log(result);
       console.log(err);
