@@ -55,16 +55,16 @@ function App() {
 
   const [queryList, setQueryList] = useState([]);
 
-  useEffect(() => {
-    Axios.get('http://localhost:3002/api/get', 
-    {params: {
-      search: searchCountry
-    }}
-    ).then((response) => {
-      console.log(response.data)
-      setNewSongCharts(response.data)
-    })
-  },[])
+  // useEffect(() => {
+  //   Axios.get('http://localhost:3002/api/get', 
+  //   {params: {
+  //     search: searchCountry
+  //   }}
+  //   ).then((response) => {
+  //     console.log(response.data)
+  //     setNewSongCharts(response.data)
+  //   })
+  // },[])
 
   const searchChart = () => {
     Axios.get('http://localhost:3002/api/get', 
