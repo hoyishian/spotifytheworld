@@ -19,7 +19,7 @@ import {
   InputLabel,
   Tabs,
   Tab,
-  Input,
+  TextField,
 } from "@material-ui/core";
 
 import AddIcon from "@material-ui/icons/Add";
@@ -59,6 +59,10 @@ const useStyles = makeStyles((theme) => ({
   TableCell: {
     color: "white",
   },
+  input: {
+    color: "white",
+    caretColor: "white",
+  }
 }));
 
 const StyledInputLabel = styled(InputLabel)`
@@ -143,23 +147,7 @@ const country_list = [
   { country: "Vietnam" },
 ];
 
-const CustomTableCell = ({ val, name, onChange }) => {
-  const { editMode } = val;
-  console.log(val);
-  return (
-    <TableCell align="center">
-      {editMode ? (
-        <Input
-          value={val[name]}
-          name={name}
-          onChange={(e) => onChange(e, val)}
-        />
-      ) : (
-        val[name]
-      )}
-    </TableCell>
-  );
-};
+
 
 function App() {
   const [searchCountry, setSearchCountry] = useState("");
@@ -251,6 +239,29 @@ function App() {
   };
 
   const classes = useStyles();
+
+
+  const CustomTableCell = ({ val, name, onChange }) => {
+    const { editMode } = val;
+    console.log(val);
+    return (
+      <TableCell align="center" className={classes.TableCell}>
+        {editMode ? (
+          <TextField
+            value={val[name]}
+            name={name}
+            onChange={(e) => onChange(e, val)}
+            InputProps={{
+              className: classes.input
+            }}
+            autoFocus
+          />
+        ) : (
+          val[name]
+        )}
+      </TableCell>
+    );
+  };
 
   return (
     <Grid
