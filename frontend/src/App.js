@@ -160,12 +160,12 @@ function App() {
   };
 
   const submitNewSong = (value) => {
-    Axios.post("http://localhost:3002/api/insert", {
+    Axios.post("https://brave-sunspot-308516.uc.r.appspot.com/api/insert", {
       songId: value,
     });
   };
   const searchChart = (value) => {
-    Axios.get("http://localhost:3002/api/get", {
+    Axios.get("https://brave-sunspot-308516.uc.r.appspot.com/api/get", {
       params: {
         search: value,
       },
@@ -184,7 +184,7 @@ function App() {
 
   // For My Songs Retrieval
   const getMyCharts = () => {
-    Axios.get("http://localhost:3002/api/retrieve").then((response) => {
+    Axios.get("https://brave-sunspot-308516.uc.r.appspot.com/api/retrieve").then((response) => {
       console.log(response.data);
       setMyCharts(response.data);
     });
@@ -192,7 +192,7 @@ function App() {
 
   // For deleting songs from Personalize
   const deleteSong = (songId) => {
-    Axios.delete(`http://localhost:3002/api/delete/${songId}`);
+    Axios.delete(`https://brave-sunspot-308516.uc.r.appspot.com/api/delete/${songId}`);
   };
 
   const onToggleEditMode = (id) => {
@@ -208,7 +208,7 @@ function App() {
 
   const updateSong = (currsongId) => {
     console.log(currsongId);
-    Axios.put(`http://localhost:3002/api/update`, {
+    Axios.put(`https://brave-sunspot-308516.uc.r.appspot.com/api/update`, {
       songId: currsongId,
       note: newNote,
     });
