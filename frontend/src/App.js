@@ -322,8 +322,8 @@ import {
   Tab,
 } from "@material-ui/core";
 
-import  AddIcon from "@material-ui/icons/Add";
-import RemoveIcon from '@material-ui/icons/Remove';
+import AddIcon from "@material-ui/icons/Add";
+import RemoveIcon from "@material-ui/icons/Remove";
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -335,6 +335,60 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
+const country_list = [
+  { country: "Argentina" },
+  { country: "Australia" },
+  { country: "Austria" },
+  { country: "Belgium" },
+  { country: "Bolivia" },
+  { country: "Brazil" },
+  { country: "Bulgaria" },
+  { country: "Canada" },
+  { country: "Chile" },
+  { country: "Columbia" },
+  { country: "Costa Rica" },
+  { country: "Czech Republic" },
+  { country: "Denmark" },
+  { country: "Dominican Republic" },
+  { country: "Ecuador" },
+  { country: "El Salvador" },
+  { country: "Estonia" },
+  { country: "France" },
+  { country: "Germany" },
+  { country: "Global" },
+  { country: "Greece" },
+  { country: "Guatemala" },
+  { country: "Honduras" },
+  { country: "Hong Kong" },
+  { country: "Hungary" },
+  { country: "Iceland" },
+  { country: "India" },
+  { country: "Indonesia" },
+  { country: "Ireland" },
+  { country: "Israel" },
+  { country: "Japan" },
+  { country: "Korea" },
+  { country: "Latvia" },
+  { country: "Malaysia" },
+  { country: "Mexico" },
+  { country: "Netherlands" },
+  { country: "New Zealand" },
+  { country: "Peru" },
+  { country: "Poland" },
+  { country: "Portugal" },
+  { country: "Russia" },
+  { country: "Singapore" },
+  { country: "South Africa" },
+  { country: "Spain" },
+  { country: "Sweden" },
+  { country: "Taiwan" },
+  { country: "Turkey" },
+  { country: "USA" },
+  { country: "United Kingdom" },
+  { country: "Uraguay" },
+  { country: "Vietnam" },
+];
+
 function App() {
   const [searchCountry, setSearchCountry] = useState("");
   const [newSongCharts, setNewSongCharts] = useState([]);
@@ -344,7 +398,6 @@ function App() {
     setTab(newValue);
   };
 
-  
   const searchChart = (value) => {
     Axios.get("http://localhost:3002/api/get", {
       params: {
@@ -365,11 +418,11 @@ function App() {
 
   // For My Songs Retrieval
   const getMyCharts = () => {
-        Axios.get('http://localhost:3002/api/retrieve').then((response) => {
-          console.log(response.data)
-          setMyCharts(response.data)
-        })
-      };
+    Axios.get("http://localhost:3002/api/retrieve").then((response) => {
+      console.log(response.data);
+      setMyCharts(response.data);
+    });
+  };
 
   const changeCountry = (event) => {
     setSearchCountry(event.target.value);
@@ -402,13 +455,14 @@ function App() {
           <Tab label="Map View" />
         </Tabs>
       </Grid>
+      {/* country_list */}
       <Grid item>
         <FormControl className={classes.formControl}>
           <InputLabel>Chart</InputLabel>
-          <Select onChange = {changeCountry} value={searchCountry} >
-            <MenuItem value={"Global"}>Global</MenuItem>
-            <MenuItem value={"USA"}>United States</MenuItem>
-            <MenuItem value={"United Kingdom"}>United Kingdom</MenuItem>
+          <Select onChange={changeCountry} value={searchCountry}>
+            {country_list.map((val) => (
+              <MenuItem value={val.country}>{val.country}</MenuItem>
+            ))}
           </Select>
         </FormControl>
       </Grid>
