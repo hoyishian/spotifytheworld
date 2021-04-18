@@ -26,7 +26,7 @@ app.get("/api/retrieve", (require, response) => {
       throw err;
     }
     const sqlSelect =
-      "SELECT DISTINCT s.name, a.artist_name, al.album_name, s.song_id, al.album_id, a.artist_id, p.note, p.highlyRated FROM (((Personalize p JOIN Song s ON p.song_id = s.song_id) JOIN Sings si ON s.song_id = si.song_id) JOIN Artist a ON si.artist_id = a.artist_id) JOIN Album al ON s.album_id = al.album_id";
+      "SELECT DISTINCT s.song_name, s.artists, s.album_name, s.song_id, s.album_id, p.note, p.highlyRated FROM (Personalize p JOIN Sings2 s ON p.song_id = s.song_id)";
     connection.query(sqlSelect, (err, result) => {
       connection.release();
       console.log(result);
@@ -44,14 +44,19 @@ app.get("/api/get", (require, response) => {
       connection.release();
       throw err;
     }
-    const sqlSelect =
-      "SELECT DISTINCT s.name, a.artist_name, al.album_name, s.country_chart, s.chart_rank, s.song_id, al.album_id, a.artist_id FROM ((Song s JOIN Sings si ON s.song_id = si.song_id) JOIN Album al ON s.album_id = al.album_id) JOIN Artist a ON si.artist_id = a.artist_id WHERE s.country_chart LIKE ? ORDER BY s.chart_rank";
+    const sqlSelect = "CALL mergeArtistsFull(?);"
     connection.query(sqlSelect, searchCountry, (err, result) => {
+      console.log(result);
+      console.log(err);
+    });
+    const sqlSelect2 = "SELECT * FROM Sings2 ORDER BY chart_rank;" 
+    connection.query(sqlSelect2, (err, result) => {
       connection.release();
       console.log(result);
       console.log(err);
       response.send(result);
     });
+
   });
 });
 
@@ -110,3 +115,7 @@ const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
   console.log("running on port 3002");
 });
+
+// app.listen(8080, () => {
+//   console.log("running on port 3002");
+// });

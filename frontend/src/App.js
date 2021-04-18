@@ -160,11 +160,13 @@ function App() {
   };
 
   const submitNewSong = (value) => {
+    // Axios.post("http://localhost:8080/api/insert", {
     Axios.post("https://brave-sunspot-308516.uc.r.appspot.com/api/insert", {
       songId: value,
     });
   };
   const searchChart = (value) => {
+    // Axios.get("http://localhost:8080/api/get", {
     Axios.get("https://brave-sunspot-308516.uc.r.appspot.com/api/get", {
       params: {
         search: value,
@@ -184,6 +186,7 @@ function App() {
 
   // For My Songs Retrieval
   const getMyCharts = () => {
+    // Axios.get("http://localhost:8080/api/retrieve").then((response) => {
     Axios.get("https://brave-sunspot-308516.uc.r.appspot.com/api/retrieve").then((response) => {
       console.log(response.data);
       setMyCharts(response.data);
@@ -192,6 +195,7 @@ function App() {
 
   // For deleting songs from Personalize
   const deleteSong = (songId) => {
+    // Axios.delete(`http://localhost:8080/api/delete/${songId}`);
     Axios.delete(`https://brave-sunspot-308516.uc.r.appspot.com/api/delete/${songId}`);
   };
 
@@ -208,6 +212,7 @@ function App() {
 
   const updateSong = (currsongId) => {
     console.log(currsongId);
+    // Axios.put(`http://localhost:8080/api/update`, {
     Axios.put(`https://brave-sunspot-308516.uc.r.appspot.com/api/update`, {
       songId: currsongId,
       note: newNote,
@@ -349,11 +354,11 @@ function App() {
                     </TableCell>
                     <TableCell align="center" className={classes.TableCell}>
                       {" "}
-                      {val.name}{" "}
+                      {val.song_name}{" "}
                     </TableCell>
                     <TableCell align="center" className={classes.TableCell}>
                       {" "}
-                      {val.artist_name}{" "}
+                      {val.artists}{" "}
                     </TableCell>
                     <TableCell align="center" className={classes.TableCell}>
                       {" "}
@@ -419,11 +424,11 @@ function App() {
                   <TableRow key={val.id} className={classes.TableRow}>
                     <TableCell align="center" className={classes.TableCell}>
                       {" "}
-                      {val.name}{" "}
+                      {val.song_name}{" "}
                     </TableCell>
                     <TableCell align="center" className={classes.TableCell}>
                       {" "}
-                      {val.artist_name}{" "}
+                      {val.artists}{" "}
                     </TableCell>
                     <TableCell align="center" className={classes.TableCell}>
                       {" "}
