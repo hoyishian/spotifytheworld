@@ -324,7 +324,8 @@ import {
 } from "@material-ui/core";
 
 import AddIcon from "@material-ui/icons/Add";
-import RemoveIcon from "@material-ui/icons/Remove";
+import EditIcon from '@material-ui/icons/Edit';
+import CloseIcon from '@material-ui/icons/Close';
 
 const useStyles = makeStyles((theme) => ({
   container: {
@@ -546,7 +547,7 @@ function App() {
                     <TableCell align="center" className = {classes.TableCell}> {val.artist_name} </TableCell>
                     <TableCell align="center" className = {classes.TableCell}> {val.album_name} </TableCell>
                     <TableCell align="center" className = {classes.TableCell}>
-                      <AddIcon color="secondary" />
+                      <AddIcon style={{ fill: "#1DB954" }} />
                     </TableCell>
                   </TableRow>
                 ))}
@@ -586,8 +587,8 @@ function App() {
                     <TableCell align="center" className = {classes.TableCell}> {val.album_name} </TableCell>
                     <TableCell align="center" className = {classes.TableCell}> {val.note} </TableCell>
                     <TableCell align="center"className = {classes.TableCell}>
-                      <AddIcon color="secondary" />
-                      <RemoveIcon color="secondary" />
+                      <EditIcon style={{ fill: "orange" }} />
+                      <CloseIcon style={{ fill: "red" }} />
                     </TableCell>
                   </TableRow>
                 ))}
