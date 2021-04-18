@@ -333,6 +333,12 @@ const useStyles = makeStyles((theme) => ({
     margin: theme.spacing(1),
     minWidth: 160,
   },
+  customTabRoot: {
+    color: "#FFFFFF",
+  },
+  customTabIndicator: {
+    backgroundColor: "#1DB954"
+  }
 }));
 
 const country_list = [
@@ -441,61 +447,36 @@ function App() {
       spacing={4}
     >
       <Grid item>
-        <h1> Spotify The World</h1>
+        <h1 style={{ color: 'white' }}> Spotify The World</h1>
       </Grid>
       <Grid item>
         <Tabs
           value={tab}
-          indicatorColor="primary"
-          textColor="primary"
           onChange={tabChange}
+          classes={{
+            root: classes.customTabRoot,
+            indicator: classes.customTabIndicator
+          }}
         >
           <Tab label="Charts" />
           <Tab label="Personalized List" />
           <Tab label="Map View" />
         </Tabs>
       </Grid>
-      {/* country_list */}
-      <Grid item>
-        <FormControl className={classes.formControl}>
-          <InputLabel>Chart</InputLabel>
-          <Select onChange={changeCountry} value={searchCountry}>
-            {country_list.map((val) => (
-              <MenuItem value={val.country}>{val.country}</MenuItem>
-            ))}
-          </Select>
-        </FormControl>
-      </Grid>
-
       {tab === 0 && (
         <Grid item>
-          <TableContainer className={classes.container} component={Paper}>
-            <Table className={classes.container} aria-label="simple table">
-              <TableHead>
-                <TableRow>
-                  <TableCell align="center">Rank </TableCell>
-                  <TableCell align="center"> Song </TableCell>
-                  <TableCell align="center"> Artist </TableCell>
-                  <TableCell align="center"> Album </TableCell>
-                </TableRow>
-              </TableHead>
-
-              <TableBody>
-                {newSongCharts.map((val) => (
-                  <TableRow key={val.id}>
-                    <TableCell align="center"> {val.chart_rank} </TableCell>
-                    <TableCell align="center"> {val.name} </TableCell>
-                    <TableCell align="center"> {val.artist_name} </TableCell>
-                    <TableCell align="center"> {val.album_name} </TableCell>
-                  </TableRow>
-                ))}
-              </TableBody>
-            </Table>
-          </TableContainer>
+          <FormControl className={classes.formControl}>
+            <InputLabel>Chart</InputLabel>
+            <Select onChange={changeCountry} value={searchCountry}>
+              {country_list.map((val) => (
+                <MenuItem value={val.country}>{val.country}</MenuItem>
+              ))}
+            </Select>
+          </FormControl>
         </Grid>
       )}
 
-      {tab === 1 && (
+      {tab === 0 && (
         <Grid item>
           <TableContainer className={classes.container} component={Paper}>
             <Table className={classes.container} aria-label="simple table">
@@ -524,12 +505,6 @@ function App() {
               </TableBody>
             </Table>
           </TableContainer>
-        </Grid>
-      )}
-
-      {tab === 1 && (
-        <Grid item>
-          <h2> My Songs</h2>
         </Grid>
       )}
 
