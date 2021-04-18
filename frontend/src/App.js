@@ -303,6 +303,7 @@
 import "./App.css";
 import React, { useState } from "react";
 import Axios from "axios";
+import styled from 'styled-components';
 import { makeStyles } from "@material-ui/core/styles";
 import {
   Table,
@@ -332,14 +333,61 @@ const useStyles = makeStyles((theme) => ({
   formControl: {
     margin: theme.spacing(1),
     minWidth: 160,
+    borderColor: "white",
+    textColor:  "white",
+    color: "white"
   },
   customTabRoot: {
     color: "#FFFFFF",
   },
   customTabIndicator: {
     backgroundColor: "#1DB954"
-  }
+  },
+  select: {
+    color:"white",
+    textAlign: "left"
+    
+  },
+  InputLabel: {
+    borderColor: "white",
+    color:  "white",
+    textColor: "white",
+  },
+  TableRow: {
+    backgroundColor: "#201c1c"
+  },
+  TableCell: {
+    color: "white"
+  },
 }));
+
+const StyledInputLabel = styled(InputLabel)`
+  .MuiInputLabel-root {
+    color: white;
+    border-color: white;
+    text-color: white;
+  }
+  .Mui-focused {
+    color: white;
+    border-color: white;
+    text-color: white;
+  }
+  .MuiInputLabel-formControl {
+    color: white;
+    border-color: white;
+    text-color: white;
+  }
+  .MuiInputLabel-marginDense {
+    color: white;
+    border-color: white;
+    text-color: white;
+  }
+  .MuiInputLabel-outlined {
+    color: white;
+    border-color: white;
+    text-color: white;
+  }
+`;
 
 const country_list = [
   { country: "Argentina" },
@@ -465,9 +513,9 @@ function App() {
       </Grid>
       {tab === 0 && (
         <Grid item>
-          <FormControl className={classes.formControl}>
-            <InputLabel>Chart</InputLabel>
-            <Select onChange={changeCountry} value={searchCountry}>
+          <FormControl variant="outlined" className={classes.formControl}>
+            <StyledInputLabel className={classes.InputLabel}>Country</StyledInputLabel>
+            <Select classes={{root: classes.select, select: classes.select, icon: classes.select}} onChange={changeCountry} value={searchCountry}>
               {country_list.map((val) => (
                 <MenuItem value={val.country}>{val.country}</MenuItem>
               ))}
@@ -481,23 +529,23 @@ function App() {
           <TableContainer className={classes.container} component={Paper}>
             <Table className={classes.container} aria-label="simple table">
               <TableHead>
-                <TableRow>
-                  <TableCell align="center">Rank </TableCell>
-                  <TableCell align="center"> Song </TableCell>
-                  <TableCell align="center"> Artist </TableCell>
-                  <TableCell align="center"> Album </TableCell>
-                  <TableCell align="center"> Actions </TableCell>
+                <TableRow className = {classes.TableRow}>
+                  <TableCell align="center" className = {classes.TableCell}>Rank </TableCell>
+                  <TableCell align="center"className = {classes.TableCell}> Song </TableCell>
+                  <TableCell align="center"className = {classes.TableCell}> Artist </TableCell>
+                  <TableCell align="center" className = {classes.TableCell}> Album </TableCell>
+                  <TableCell align="center" className = {classes.TableCell}> Actions </TableCell>
                 </TableRow>
               </TableHead>
 
               <TableBody>
                 {newSongCharts.map((val) => (
-                  <TableRow key={val.id}>
-                    <TableCell align="center"> {val.chart_rank} </TableCell>
-                    <TableCell align="center"> {val.name} </TableCell>
-                    <TableCell align="center"> {val.artist_name} </TableCell>
-                    <TableCell align="center"> {val.album_name} </TableCell>
-                    <TableCell align="center">
+                  <TableRow key={val.id} className = {classes.TableRow}>
+                    <TableCell align="center" className = {classes.TableCell}> {val.chart_rank} </TableCell>
+                    <TableCell align="center" className = {classes.TableCell}> {val.name} </TableCell>
+                    <TableCell align="center" className = {classes.TableCell}> {val.artist_name} </TableCell>
+                    <TableCell align="center" className = {classes.TableCell}> {val.album_name} </TableCell>
+                    <TableCell align="center" className = {classes.TableCell}>
                       <AddIcon color="secondary" />
                     </TableCell>
                   </TableRow>
@@ -518,26 +566,26 @@ function App() {
 
       {tab === 1 && (
         <Grid item>
-          <TableContainer className={classes.container} component={Paper}>
+          <TableContainer className={classes.container} >
             <Table className={classes.container} aria-label="simple table">
-              <TableHead>
-                <TableRow>
-                  <TableCell align="center"> Song </TableCell>
-                  <TableCell align="center"> Artist </TableCell>
-                  <TableCell align="center"> Album </TableCell>
-                  <TableCell align="center"> Note </TableCell>
-                  <TableCell align="center"> Actions </TableCell>
+              <TableHead >
+                <TableRow className = {classes.TableRow}>
+                  <TableCell align="center" className = {classes.TableCell}> Song </TableCell>
+                  <TableCell align="center" className = {classes.TableCell}> Artist </TableCell>
+                  <TableCell align="center" className = {classes.TableCell}> Album </TableCell>
+                  <TableCell align="center" className = {classes.TableCell}> Note </TableCell>
+                  <TableCell align="center" className = {classes.TableCell}> Actions </TableCell>
                 </TableRow>
               </TableHead>
 
               <TableBody>
                 {myCharts.map((val) => (
-                  <TableRow key={val.id}>
-                    <TableCell align="center"> {val.name} </TableCell>
-                    <TableCell align="center"> {val.artist_name} </TableCell>
-                    <TableCell align="center"> {val.album_name} </TableCell>
-                    <TableCell align="center"> {val.note} </TableCell>
-                    <TableCell align="center">
+                  <TableRow key={val.id} className = {classes.TableRow}>
+                    <TableCell align="center" className = {classes.TableCell}> {val.name} </TableCell>
+                    <TableCell align="center" className = {classes.TableCell}> {val.artist_name} </TableCell>
+                    <TableCell align="center" className = {classes.TableCell}> {val.album_name} </TableCell>
+                    <TableCell align="center" className = {classes.TableCell}> {val.note} </TableCell>
+                    <TableCell align="center"className = {classes.TableCell}>
                       <AddIcon color="secondary" />
                       <RemoveIcon color="secondary" />
                     </TableCell>
