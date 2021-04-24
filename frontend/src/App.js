@@ -291,7 +291,6 @@ function App() {
         >
           <Tab label="Charts" />
           <Tab label="Personalized List" />
-          <Tab label="Map View" />
         </Tabs>
       </Grid>
       {tab === 0 && (

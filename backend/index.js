@@ -49,8 +49,8 @@ app.get("/api/get", (require, response) => {
       console.log(result);
       console.log(err);
     });
-    const sqlSelect2 = "SELECT * FROM Sings2 ORDER BY chart_rank;" 
-    connection.query(sqlSelect2, (err, result) => {
+    const sqlSelect2 = "SELECT DISTINCT * FROM Sings2 WHERE country_chart = ? ORDER BY chart_rank;" 
+    connection.query(sqlSelect2, searchCountry, (err, result) => {
       connection.release();
       console.log(result);
       console.log(err);
@@ -111,11 +111,11 @@ app.put("/api/update/", (require, response) => {
     });
   });
 });
-const PORT = process.env.PORT || 8080;
-app.listen(PORT, () => {
-  console.log("running on port 3002");
-});
-
-// app.listen(8080, () => {
+// const PORT = process.env.PORT || 8080;
+// app.listen(PORT, () => {
 //   console.log("running on port 3002");
 // });
+
+app.listen(8080, () => {
+  console.log("running on port 3002");
+});
