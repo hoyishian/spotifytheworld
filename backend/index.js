@@ -111,11 +111,12 @@ app.put("/api/update/", (require, response) => {
     });
   });
 });
-// const PORT = process.env.PORT || 8080;
-// app.listen(PORT, () => {
+
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, () => {
+  console.log("running on port 8080");
+});
+
+// app.listen(8080, () => {
 //   console.log("running on port 3002");
 // });
-
-app.listen(8080, () => {
-  console.log("running on port 3002");
-});
